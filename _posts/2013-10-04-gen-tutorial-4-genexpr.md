@@ -38,4 +38,4 @@ The **expr** operator has the same functionality as **codebox**, but lacks the t
 
 ![]({{site.url}}/assets/images/posts/2013/13-10-04/03.png)
 
-All patches can be downloaded [here]({{site.url}}/assets/data/2013/13-10-04/GenTutorial4.zip).
+All patches can be downloaded [here](https://drive.google.com/open?id=1eQuAESTleCjDFjV-H-fqKs-8Tg3E7oU5){:target="_blank"}.

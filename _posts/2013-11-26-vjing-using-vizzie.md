@@ -8,7 +8,7 @@ tags:
 - VIZZIE
 - VJ
 ---
-[Cycling 74’s *Vizzie*](https://cycling74.com/articles/introducing-vizzie) is a collection of interactive *Jitter* objects, in essence *bpatchers*. To use *Vizzie*, first create a new patcher and then add modules by right clicking then **Paste From -> VIZZIE-CLIPPINGS -> …**
+[Cycling 74’s *Vizzie*](https://cycling74.com/articles/introducing-vizzie) is a collection of interactive *Jitter* objects, in essence *bpatchers*. To use *Vizzie*, first create a new patcher and then add modules by right clicking then **Paste From -> VIZZIE-CLIPPINGS**
 
 ![]({{site.url}}/assets/images/posts/2013/13-11-26/01.png)
 
@@ -24,4 +24,4 @@ As *Vizzie* is merely *Jitter bpatchers*, *Jitter* code may be added at any time
 
 ![]({{site.url}}/assets/images/posts/2013/13-11-26/04.png)
 
-Cycling ‘74 have some official tutorials on their youtube page: [1. - Quickstart](https://www.youtube.com/watch?v=z4TfdPHrbgg), [2. - Vizzie Control](https://www.youtube.com/watch?v=Q2On-3lSATE), and [3. - Vizzie Routing](https://www.youtube.com/watch?v=c2KYmDWgr7Q).
+Cycling ‘74 have some official tutorials on their youtube page: [1. - Quickstart](https://www.youtube.com/watch?v=z4TfdPHrbgg){:target="_blank"}, [2. - Vizzie Control](https://www.youtube.com/watch?v=Q2On-3lSATE){:target="_blank"}, and [3. - Vizzie Routing](https://www.youtube.com/watch?v=c2KYmDWgr7Q){:target="_blank"}.

@@ -30,4 +30,4 @@ In the next patch we create an internal *Gen* buffer using **data** and then wri
 
 ![]({{site.url}}/assets/images/posts/2013/13-10-03/04.png)
 
-All patches can be downloaded [here]({{site.url}}/assets/data/2013/13-10-03/GenTutorial3.zip).
+All patches can be downloaded [here](https://drive.google.com/open?id=1g5iJapet5Aq4zXAOTgVzOqOIWxaRPN_V){:target="_blank"}.

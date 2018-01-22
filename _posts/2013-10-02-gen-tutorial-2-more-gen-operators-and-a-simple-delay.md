@@ -33,4 +33,4 @@ Lets create a simple delay patch.
 
 So we create a one-second delay (44100 samples) where the audio folds between [-1, 1]. A feedback is created by mixing this delayed sample with the previous feedback value. A *delayFeedback* **param** controls this from *Max*, with the current feedback value stored in **history** for the next sample. This feedback value is then crossfaded with the original signal, controlled by *delayDryWet* **param**. Notice that both *delayFeedback* and *delayDryWet* are clamped to the range [0, 1] and given initial values.
 
-All patches can be downloaded [here]({{site.url}}/assets/data/2013/13-10-02/GenTutorial2.zip).
+All patches can be downloaded [here](https://drive.google.com/open?id=1NWSk9LLNdNOWa7_C6cTWU_v5jLTsbpA7){:target="_blank"}.
