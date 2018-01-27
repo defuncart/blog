@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DVJing using Live & VIZZable
+title: DVJing using Live + VIZZable
 date: 2013-11-28 22:00:00 +01:00
 tags:
 - Max MSP
