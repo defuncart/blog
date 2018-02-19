@@ -4,8 +4,8 @@ title: Introducing LiVid.m4l
 date: '2013-09-24T22:00:00+02:00'
 tags:
 - LiVid
-- Max for Live
-- Max MSP
+- MaxForLive
+- Max
 - Jitter
 - VIZZIE
 - VIZZable

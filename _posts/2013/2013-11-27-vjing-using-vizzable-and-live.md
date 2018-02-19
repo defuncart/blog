@@ -3,12 +3,12 @@ layout: post
 title: VJing using VIZZable and Live
 date: 2013-11-27 22:00:00 +01:00
 tags:
-- Max MSP
-- jitter
-- Max for Live
+- Max
+- Jitter
+- MaxForLive
 - VIZZable
 - VIZZIE
-- VJ
+- vj
 ---
 [*VIZZable*](http://vizzable.zeal.co/){:target="_blank"} is a [*Max for Live*](https://www.ableton.com/en/live/max-for-live/){:target="_blank"} suite for video manipulation and live performance in *Ableton Live* 9. Originally based on Cycling ‘74’s [*VIZZIE*](https://cycling74.com/2010/11/19/introducing-vizzie/){:target="_blank"} package, in it’s latest version, *VIZZable* has been rebuilt from the ground up to take advantage of Cycling '74’s new environment *Gen*, facilitating very fast and efficient video processing on the GPU.
 

@@ -3,10 +3,10 @@ layout: post
 title: DJing using Mixxx + Ableton Live + Kontrolr
 date: 2013-10-09 11:29:58 +02:00
 tags:
-- kontrolr
-- Max for Live
-- Ableton Live
-- DJ
+- Kontrolr
+- MaxForLive
+- AbletonLive
+- dj
 ---
 [*Mixxx*](https://www.mixxx.org/) is an awesome Open-Source DJ software, and a major rival to *Virtual DJ* and *Traktor* from what I’ve heard. So today I decided to try experimenting with it.
 

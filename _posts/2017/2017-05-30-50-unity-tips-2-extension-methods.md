@@ -4,7 +4,7 @@ title: '50 Unity Tips #2: Extension Methods'
 date: 2017-05-30 10:00:00 +02:00
 tags:
 - Unity3D
-- unity2d
+- Unity2D
 - 50UnityTips
 ---
 

@@ -3,9 +3,9 @@ layout: post
 title: Custom Databending Effect in Processing
 date: 2014-01-15 22:00:00 +01:00
 tags:
-- processing
+- Processing
 - photography
-- creative computing
+- CreativeComputing
 - glitch
 - databend
 ---

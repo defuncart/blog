@@ -3,7 +3,7 @@ layout: post
 title: Deklinator - A Polish Declension App
 date: 2016-12-01 18:46:31 +01:00
 tags:
-- deklinator
+- Deklinator
 ---
 On the bus home last Sunday night I had the idea of creating a simple App to help test my knowledge of the different polish declensions for nouns. Between masculine personal and non-personal, and hard and soft endings, I realized that I really only know half the picture when it comes to declension (that is, what I can transfer over from Russian). Hence I threw together the following simple proof of concept:
 

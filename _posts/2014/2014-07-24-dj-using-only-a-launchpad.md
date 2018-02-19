@@ -5,10 +5,10 @@ date: 2014-07-24 22:00:00 +02:00
 tags:
 - LiAMP
 - dj
-- novation launchpad
-- ableton live
-- Max MSP
-- Max for Live
+- NovationLaunchpad
+- AbletonLive
+- Max
+- MaxForLive
 ---
 Today I started to prepare a new DJ set in *Ableton* and I began to think, can a traditional DJ set be solely performed using a *Launchpad*?
 

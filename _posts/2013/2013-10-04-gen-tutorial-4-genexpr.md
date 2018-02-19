@@ -3,7 +3,7 @@ layout: post
 title: Gen Tutorial 4 - GenExpr
 date: 2013-10-04 22:00:00 +02:00
 tags:
-- Max MSP
+- Max
 - Gen
 - C
 - dsp

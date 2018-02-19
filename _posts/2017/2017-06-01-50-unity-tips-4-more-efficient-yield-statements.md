@@ -4,7 +4,7 @@ title: '50 Unity Tips #4: More Efficient Yield Statements'
 date: 2017-06-01 10:00:00 +02:00
 tags:
 - Unity3D
-- unity2d
+- Unity2D
 - UnityTipsTricks
 ---
 

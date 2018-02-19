@@ -3,9 +3,9 @@ layout: post
 title: Code Signing OSX Applications using the Terminal
 date: 2014-02-25 23:59:00 +01:00
 tags:
-- OSX
-- objective c
-- xcode
+- macOS
+- ObjectiveC
+- Xcode
 - terminal
 ---
 *Xcode* easily allows one to sign (using an Apple Developers Account) an application or installer by selecting the relevant certificate in the Project’s general settings. However, what if you are building the project outside *Xcode*? Luckily there is the [*codesign*](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/codesign.1.html) terminal command

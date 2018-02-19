@@ -3,7 +3,7 @@ layout: post
 title: VJing using Quartz Composer
 date: 2013-11-30 22:00:00 +01:00
 tags:
-- Quartz Composer
+- QuartzComposer
 - VJ
 ---
 *Quartz Composer* is a node-based visual programming language provided as part of the Xcode development environment in Mac OS X for processing and rendering graphical data. Due to it’s lightweight implementation, and ease of integration into VJ software like [VDMX](http://vidvox.net/){:target="_blank"}, [Resolume](https://resolume.com/){:target="_blank"}, [CoGe](https://imimot.com/cogevj/){:target="_blank"}, and custom tools like [Quartz Composer Performer](http://www.share.dj/share/event_info.php?eventID=345){:target="_blank"}, *QC* has become a staple of the VJing community.

@@ -5,10 +5,10 @@ date: 2014-07-25 20:46:50 +02:00
 tags:
 - LiAMP
 - dj
-- novation launchpad
-- ableton live
-- Max MSP
-- Max for Live
+- NovationLaunchpad
+- AbletonLive
+- Max
+- MaxForLive
 ---
 Continuing on from yesterdays discussion about DJing using *Live* and a *Launchpad*, after some inspiration from the Cycling ‘74 forums I implemented the radio buttons using simple max objects as opposed to scripting.
 

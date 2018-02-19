@@ -3,7 +3,7 @@ layout: post
 title: Introducing kontrolr
 date: 2013-09-22 22:00:00 +02:00
 tags:
-- kontrolr
+- Kontrolr
 - iOS
 - openFrameworks
 ---
@@ -27,9 +27,9 @@ The following quick video demonstrates how the various components, kontrolr, *Li
 
 **Notes**
 
-<sup><b>1</b></sup> 
+<sup><b>1</b></sup>
 Apple’s [Camera Connection kit](https://www.apple.com/uk/shop/product/MC531ZM/A/apple-ipad-camera-connection-kit) (and the updated [Lightning Connector](https://www.apple.com/uk/shop/product/MD821ZM/A/lightning-to-usb-camera-adapter)) allows one to connect their camera with USB to import photos and videos. However, it has the added hidden functionality of allowing any class compliant (a device that doesn’t require extra drivers when connected to Windows/Macintosh computers) USB audio interface or MIDI controller/keyboard to be connected to an iOS device. More info can be found in [this post](http://ma101jl.tumblr.com/post/38412006721/the-ipad-as-a-mobile-audio-studio).<br />
-<sup><b>2</b></sup> 
+<sup><b>2</b></sup>
 A cable with a USB plug on one end, and an IN/OUT 6-pin MIDI connectors on the other end.<br />
 <sup><b>3</b></sup>
 [*OSCulator*](https://osculator.net/) is an application which connecots to OSC devices (such as wiimote etc) and converts their input data into another type of data suitable for other applications, for instance MIDI and Ableton Live.

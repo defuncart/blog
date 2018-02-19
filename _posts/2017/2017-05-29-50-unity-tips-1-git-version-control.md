@@ -3,7 +3,7 @@ layout: post
 title: '50 Unity Tips #1: Git Version Control'
 date: 2017-05-29 10:00:00 +02:00
 tags:
-- unity2d
+- Unity2D
 - Unity3D
 - github
 - 50UnityTips

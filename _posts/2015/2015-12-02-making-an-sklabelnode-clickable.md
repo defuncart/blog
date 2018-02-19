@@ -4,8 +4,8 @@ title: Making an SKLabelNode Clickable
 date: 2015-12-02 13:00:00 +01:00
 tags:
 - SpriteKit
-- ios
-- osx
+- iOS
+- macOS
 - Swift
 ---
 One of the limitations of *SpriteKit* over other Game Engines and Frameworks is that it comes without any User Interaction elements built in, while it is expensive (and potentially dangerous - but more on that in the future) in mixing UIKit and presenting different views.

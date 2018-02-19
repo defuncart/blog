@@ -5,7 +5,7 @@ date: 2015-11-03 12:39:29 +01:00
 tags:
 - Swift
 - SpriteKit
-- ios
+- iOS
 ---
 The new and improved *SpriteKit* Editor in Xcode 7 brings a whole host of new features that greatly aid the development project of visually designing games and projects that use *SpriteKit*. This post will consider three of these key features, and approaches to keep support for iOS8.
 

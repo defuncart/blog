@@ -5,7 +5,7 @@ title: Programmatically Checking if an App is Installed on iOS + Launching Apps 
 date: 2013-12-16 23:07:00 +01:00
 tags:
 - iOS
-- Objective C
+- ObjectiveC
 ---
 [Apple URL Schemes](https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html) allow Native iOS and web apps in Safari to trigger System and installed 3rd party apps.
 

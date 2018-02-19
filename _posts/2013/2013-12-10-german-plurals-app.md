@@ -3,8 +3,7 @@ layout: post
 title: German Plurals App
 date: 2013-12-10 22:00:00 +01:00
 tags:
-- German
-- Deutsch
+- GermanLanguage
 - HTML
 - javascript
 ---

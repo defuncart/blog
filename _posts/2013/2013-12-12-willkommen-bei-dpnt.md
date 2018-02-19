@@ -3,8 +3,7 @@ layout: post
 title: Willkommen bei DPNT!!
 date: 2013-12-12 22:00:00 +01:00
 tags:
-- Deutsch
-- German
+- GermanLangauge
 - HTML
 - CSS
 - javascript

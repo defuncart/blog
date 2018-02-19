@@ -3,10 +3,9 @@ layout: post
 title: Image Masher!
 date: 2013-09-25 10:22:50 +02:00
 tags:
-- Image Masher
 - postdigital
 - glitch
-- Max MSP
+- Max
 - Jitter
 ---
 Today we are proud to announce the release of *Image Masher!*, a Postdigital art generator and an Image Masher. The application takes four images as inputs, and then conducts effects on pairs of these images, resulting in two new images, which in turn are manipulated to generate a single ‘mashed’ output. This application was used to construct the collection *Election* (2011), and the artwork for Strawberry Complexity‘s debut EP [*This is Pop Music*](https://strawberrycomplexity.bandcamp.com/){:target="_blank"} (2010).

@@ -3,14 +3,14 @@ layout: post
 title: DVJing using Live + VIZZable
 date: 2013-11-28 22:00:00 +01:00
 tags:
-- Max MSP
+- Max
 - Jitter
-- Max for Live
-- ableton live
+- MaxForLive
+- AbletonLive
 - VIZZable
-- DJ
-- VJ
-- DVJ
+- dj
+- vj
+- dvj
 ---
 Yesterday I talked about VJing using *VIZZable* and *Live*, mainly concentrating on the new features in version 2.1, notably the ability to trigger video clips in session mode. Recall, previously video clips could be arranged only in arrangement view. However, with the new **[clipPlayer(audio)]** module, video clips can be placed on Live’s clip slots, and triggered like standard audio clips. Moreover, these video clips can be edited and warped, again as per normal audio clips. Following from Zeal’s [video](https://www.youtube.com/watch?v=JA2IMKTSBeo){:target="_blank"} in which he demonstrates this, I wanted to mess about with this new feature, and see how viable it would be for live performance.
 

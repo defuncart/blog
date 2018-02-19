@@ -3,10 +3,10 @@ layout: post
 title: VJing using VIZZIE
 date: 2013-11-26 22:00:00 +01:00
 tags:
-- Max MSP
-- jitter
+- Max
+- Jitter
 - VIZZIE
-- VJ
+- vj
 ---
 [Cycling 74’s *Vizzie*](https://cycling74.com/articles/introducing-vizzie) is a collection of interactive *Jitter* objects, in essence *bpatchers*. To use *Vizzie*, first create a new patcher and then add modules by right clicking then **Paste From -> VIZZIE-CLIPPINGS**
 

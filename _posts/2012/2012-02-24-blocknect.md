@@ -5,7 +5,7 @@ date:   2012-02-24 22:00:00 +0100
 tags:
 - iOS
 - openFrameworks
-- maxmsp
+- Max
 - mfa
 ---
 

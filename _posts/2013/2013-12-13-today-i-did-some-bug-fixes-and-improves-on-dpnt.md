@@ -3,8 +3,7 @@ layout: post
 title: Today I did some bug fixes and improves on DPNT
 date: 2013-12-13 22:00:00 +01:00
 tags:
-- German
-- Deutsch
+- GermanLanguage
 - HTML
 - CSS
 - javascript

@@ -3,7 +3,7 @@ layout: post
 title: Gen Tutorial 2 - More Gen Operators and a Simple Delay
 date: 2013-10-02 22:00:00 +02:00
 tags:
-- Max MSP
+- Max
 - Gen
 - dsp
 - tutorial

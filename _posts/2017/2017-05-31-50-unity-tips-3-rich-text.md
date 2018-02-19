@@ -3,7 +3,7 @@ layout: post
 title: '50 Unity Tips #3: Rich Text'
 date: 2017-05-31 10:00:00 +02:00
 tags:
-- unity2d
+- Unity2D
 - Unity3D
 - 50UnityTips
 ---

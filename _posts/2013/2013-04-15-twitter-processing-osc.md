@@ -3,7 +3,7 @@ layout: post
 title: Twitter + Processing + OSC
 date: 2013-04-15 22:00:00+01:00
 tags:
-- processing
+- Processing
 - twitter
 - tutorial
 ---
@@ -39,7 +39,7 @@ try
 {
     QueryResult result = twitter.search(query);
     ArrayList tweets = (ArrayList) result.getTweets();
- 
+
     for (int i = 0; i < tweets.size(); i++)
     {
       Status tweet = (Status) tweets.get(i);
@@ -71,7 +71,7 @@ which can be instantiated using
 {% highlight java %}
 //instantiate oscP5 and listen for incoming messages on port 12345
 oscP5 = new OscP5(this, 12345);
-  
+
 //instantiate netAddress to send messages on 'local host' to port 12345
 netAddress = new NetAddress("127.0.0.1", 12345);
 {% endhighlight %}
@@ -86,7 +86,7 @@ void mousePressed()
   newMessage.add("helloworld");
 
   //send the message
-  oscP5.send(newMessage, netAddress); 
+  oscP5.send(newMessage, netAddress);
 }
 
 void oscEvent(OscMessage theOscMessage)

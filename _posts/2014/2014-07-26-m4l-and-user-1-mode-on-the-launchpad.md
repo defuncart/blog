@@ -3,11 +3,11 @@ layout: post
 title: M4L and User 1 Mode on the Launchpad
 date: 2014-07-26 22:00:00 +02:00
 tags:
-- novation launchpad
-- ableton live
-- Max MSP
-- Max for Live
 - LiAMP
+- NovationLaunchpad
+- AbletonLive
+- Max
+- MaxForLive
 ---
 Last year while undertaking my MFA in Live Audiovisual performance, I developed a set of *Max for Live* modules to facilitate my final performance, one of which was a *monome*-style emulator, such that the top row would have a flashing right light through the cells to specify the current beat. In the v0.01 beta of *LiAMP*, *LiAMP.Controller.Launchpad.Monome* was released with the note “Presently over-rides any cell in the top row”, while User1 mode wasn’t functioning at all.
 

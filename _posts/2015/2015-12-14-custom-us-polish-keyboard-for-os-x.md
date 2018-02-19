@@ -3,7 +3,7 @@ layout: post
 title: Custom US-Polish Keyboard (for OS X)
 date: 2015-12-14 22:00:00 +01:00
 tags:
-- osx
+- macOS
 ---
 If you wish to write in different languages on OS X, one approach is to add as many keyboards as you need in System Preferences and then swap between them using **⌥⌘Space**. One setback is that cycling between keyboards is time consuming, a larger problem is that punctuation and symbol keys can be remapped to completely different keys - just compare the U.S. and German keyboards!
 
