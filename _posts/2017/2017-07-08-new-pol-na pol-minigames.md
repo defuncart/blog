@@ -4,6 +4,7 @@ title: New Pół na pół minigames
 date: 2017-07-08 08:37:49 +02:00
 tags:
 - Półnapół
+- Unity
 ---
 Here are some screenshots from two mini-games I created for *Pół na pół* where one must match an image to a list of words, or type a word for a given image.
 

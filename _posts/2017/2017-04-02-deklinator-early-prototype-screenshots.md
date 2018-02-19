@@ -4,7 +4,7 @@ title: Deklinator Early Prototype Screenshots
 date: 2017-04-02 17:58:18 +02:00
 tags:
 - Deklinator
-- Unity2D
+- Unity
 ---
 Here are some screenshots of *Deklinator*, a very early prototype of a Declension-based game for learning polish.
 

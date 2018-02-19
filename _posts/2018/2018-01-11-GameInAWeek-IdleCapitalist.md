@@ -5,7 +5,7 @@ date:   2018-01-11 20:00:00 +0100
 tags:
 - GameInAWeek
 - IdleCapitalist
-- Unity2D
+- Unity
 ---
 
 *Idle Capitalist* is an idle clicker game inspired by *AdVenture Capitalist* in which the player invests funds into certain businesses to generate revenue. The project was created for educational purposes as part of my **#GameInAWeek** challenge and is released freely under an MIT license. This project may be quite useful for those looking for a starting point in creating an idle game in Unity for mobile. [Source](https://github.com/defuncart/game-in-a-week/tree/master/IdleCapitalist){:target="_blank"}.

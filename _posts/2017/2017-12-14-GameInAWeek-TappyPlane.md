@@ -5,7 +5,7 @@ date:   2017-12-14 20:00:00 +0100
 tags:
 - GameInAWeek
 - TappyPlane
-- Unity2D
+- Unity
 ---
 
 *Tappy Plane* is a *Flappy Bird* style endless runner in which the player taps the screen to fly their plane in between obstacles, thus earning coins which can be used to unlock other planes and levels. The project was created for educational purposes as part of my **#GameInAWeek** challenge and is released freely under an MIT license. This project may be quite useful for those looking for a starting point in creating an endless runner in Unity for mobile. [Source](https://github.com/defuncart/game-in-a-week/tree/master/TappyPlane){:target="_blank"}.
