@@ -4,10 +4,6 @@ import glob
 import os
 
 # directory variables
-# current_dir = os.getcwd()
-# posts_dir = os.path.join(current_dir, "_posts")
-# tags_dir = os.path.join(current_dir, "tags")
-
 posts_dir = '../_posts/'
 tags_dir = '../tags/'
 
