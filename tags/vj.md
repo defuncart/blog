@@ -1,5 +1,5 @@
 ---
 layout: tagPage
-title: "Tag: vj"
-tag: "vj"
+title: "Tag: VJ"
+tag: "VJ"
 ---
