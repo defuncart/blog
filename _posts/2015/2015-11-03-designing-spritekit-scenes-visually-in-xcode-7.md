@@ -15,17 +15,17 @@ One great new feature in Xcode 7 and iOS9 is the ability to split up an *.sks* f
 
 So we can create our character once (here in *Ref.sks*)
 
-![]({{site.url}}/assets/images/posts/2015/15-11-03/01.png)
+![]({{site.baseurl}}/assets/images/posts/2015/15-11-03/01.png)
 
 and reuse as many times as we like (in *GameScene.sks*)
 
-![]({{site.url}}/assets/images/posts/2015/15-11-03/02.png)
+![]({{site.baseurl}}/assets/images/posts/2015/15-11-03/02.png)
 
 Great! There is, however, one major issue: what do you do if you want to support iOS8? As the API is iOS9+, the application will crash when **NSCoder** tries to decode the referenced node.
 
 One approach that works is to create a separate SceneKit file (*GameScene_iOS8*) and replace the reference nodes with empty nodes.
 
-![]({{site.url}}/assets/images/posts/2015/15-11-03/03.png)
+![]({{site.baseurl}}/assets/images/posts/2015/15-11-03/03.png)
 
 Now when we wish to load the Scene, we check what system the device is running.
 
@@ -75,7 +75,7 @@ This isn’t pretty, but it works.
 
 Xcode 7 and iOS 9 also introduce the ability to save an action, or a group of actions, to a file and then reference this action by name in code, or drag and drop from the actions panel in the editor itself. Below is a simple sequence of actions in which we move, scale, rotate and then fade out a sprite, saved with the name action. This, however, is once again an iOS9 only feature and will crash when **NSCoder** tries to load the *.sks* file.
 
-![]({{site.url}}/assets/images/posts/2015/15-11-03/04.gif)
+![]({{site.baseurl}}/assets/images/posts/2015/15-11-03/04.gif)
 
 One approach is to remove the action from our *.sks* and instead manually load it in code, either by a simple reference in iOS9, or for iOS8 actually coding the actions by hand.
 
@@ -109,7 +109,7 @@ Lastly, another great feature is the ability to now assign nodes in *.sks* files
 
 In *GameScene.sks* we can create a colored sprite, set the name and its class to be **Button**.
 
-![]({{site.url}}/assets/images/posts/2015/15-11-03/05.png)
+![]({{site.baseurl}}/assets/images/posts/2015/15-11-03/05.png)
 
 Now in *GameScene.swift* we can easily get a reference to this button, cast it as a **Button**, and then do whatever we like (add callbacks etc.).
 

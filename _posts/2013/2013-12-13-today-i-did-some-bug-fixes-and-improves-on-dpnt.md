@@ -33,7 +33,7 @@ Here I’m using *$(window).width* and *$(window).height* to get the actual usab
 
 Another thing that the application presently lacks is feedback on the user’s answer. This is achieved in two ways. Firstly, a correct/incorrect symbol is displayed in the top right corner, and secondly, when the user answers incorrectly, the correct answer to the previous question is displayed on the bottom left corner.
 
-![]({{site.url}}/assets/images/posts/2013/13-12-13/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-13/01.png)
 
 So in the above example, the user failed to answer ‘Blusen’ correctly, so an incorrect symbol is displayed (for 1s) in the top-right, and the correct answer in the bottom-left until the next round.
 

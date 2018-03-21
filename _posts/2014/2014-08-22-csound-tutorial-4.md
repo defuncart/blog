@@ -17,7 +17,7 @@ f1 0 4096 10 1
 
 Here *f1* is created at time = 0, has a buffer size of 4096, uses *GEN10* subroutine, and has the value 1. From the [manual](http://www.csounds.com/manual/html/GEN10.html), we know *GEN10* generates composite waveforms made up of the weighted sums of simple sinusoids. As the waveform only consists of the fundamental (i.e. first partial has value 1), a simple sine tone is generated. This can be verified by pressing **‘run in term’** and seeing the resulting ASCII graphic:
 
-![]({{site.url}}/assets/images/posts/2014/14-08-22/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-08-22/01.png)
 
 Thus we can create different timbre instruments by experimenting with the amplitude of the [harmonics](https://en.wikipedia.org/wiki/Harmonic), for instance 
 
@@ -27,7 +27,7 @@ f2 0 4096 10 1 0.5 0.3 0.25 0.2 0.167 0.14 0.125 .111
 
 creates a sawtooth wave
 
-![]({{site.url}}/assets/images/posts/2014/14-08-22/02.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-08-22/02.png)
 
 But that’s not all! We aren’t limited to only having one oscillator per instrument, and can in fact combine them to create a new, exotic sound!
 

@@ -22,16 +22,16 @@ With **[gen~]** there are some key differences from MSP:
 
 So lets go about creating your first *Gen* patch. Create a new *Max* patch with the object **[gen~]**. Double click on **[gen~]**, and you should be greeted with the following default template:
 
-![]({{site.url}}/assets/images/posts/2013/13-10-01/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-01/01.png)
 
 This patch simply adds two incoming signals, like **[+~]**. Test it out!
 
-![]({{site.url}}/assets/images/posts/2013/13-10-01/02.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-01/02.png)
 
 In many cases, the specification of an object’s argument effectively replaces the corresponding inlet. This is possible in *Gen* because there is no messaging and all processing is synchronous. For example, the **+** operator takes two inputs, but if an argument is given only one input needs to be specified as an inlet. If no argument is given, then the default value (generally zero) is used. Finally, an inlet with multiple connections adds them all together, just as with *MSP* signal patchcords.
 
-![]({{site.url}}/assets/images/posts/2013/13-10-01/03.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-01/03.png)
 
 So far we’ve seen **in** and **out**. Lastly, lets look at **param** which defines a parameter inside *Gen*, and can be controlled from it’s parent patcher. **Mix** acts similarly to **+**, but interpolates between input 1 and input 2, depending on a given interpolation factor (from 0 to 1). This factor is declared as a parameter called *mixLevel*, and thus controllable in the parent *Max* patch.
 
-![]({{site.url}}/assets/images/posts/2013/13-10-01/04.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-01/04.png)

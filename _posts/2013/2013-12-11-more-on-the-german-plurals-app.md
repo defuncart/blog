@@ -191,10 +191,10 @@ function randomPluralEnding(singular)
 
 So far it doesn’t consider any umlauts, just some basic logic that ‘n’ cannot follow an ''n’ (i.e. Mann**n**) or ''er’/''e’ after an ''e’ (i.e. Blume**er**). The *HTML* element is simply a header and table of buttons. The header displays the question, and the button the potential answers. The user can either click the buttons or press the digits 1-4 to submit an answer.
 
-![]({{site.url}}/assets/images/posts/2013/13-12-11/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-11/01.png)
 
 Clearly this is a little boring, but some CSS can spice it up!
 
-![]({{site.url}}/assets/images/posts/2013/13-12-11/02.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-11/02.png)
 
 Here the answer buttons are in a table. I haven’t figured out yet how to have a fixed column size which is relative to the screen width and height.

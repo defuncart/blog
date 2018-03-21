@@ -11,7 +11,7 @@ tags:
 ---
 In the sidebar on the right of *Gen* you may have noticed a section called ‘code’.
 
-![]({{site.url}}/assets/images/posts/2013/13-10-04/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-04/01.png)
 
 This is a textual representation of the *Gen* patch, in this case, the defining of an add variable, which is assigned to the addition of inputs 1 and 2, and then assigned as the output. This code panel is a representation only, and if you try to change it, nothing will happen. Luckily *Gen* sports the **codebox** operator which is undoubtedly the most unique and extendible operator in *Gen*.
 
@@ -23,7 +23,7 @@ out1 = in1 + in2;
 
 Test out the patch, sounds familiar?
 
-![]({{site.url}}/assets/images/posts/2013/13-10-04/02.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-04/02.png)
 
 Yes you’re right, this is the same patch as GenTutorial1.1, albeit this time using written code instead of the visual operator **+**.
 
@@ -36,6 +36,6 @@ Here the presented wished to create a waveshaper, and easily found some code onl
 
 The **expr** operator has the same functionality as **codebox**, but lacks the text editor features such as syntax highlighting, multi-line text display, and navigation. Thus **expr** is most useful for short, one-line expressions, saving time patching multiple operators together.
 
-![]({{site.url}}/assets/images/posts/2013/13-10-04/03.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-04/03.png)
 
 All patches can be downloaded [here](https://drive.google.com/open?id=1eQuAESTleCjDFjV-H-fqKs-8Tg3E7oU5){:target="_blank"}.

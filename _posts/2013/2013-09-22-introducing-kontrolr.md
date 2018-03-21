@@ -16,7 +16,7 @@ tags:
 4. Ability to save and load presets. This is achieved by utilized XML files.
 5. Four different canvases, each outputting on a different MIDI channel, and unique savable preset.
 
-![]({{ site.url}}/assets/images/posts/2013/13-09-22/01.png)
+![]({{ site.baseurl}}/assets/images/posts/2013/13-09-22/01.png)
 
 As the application was developed as an additional controller to perform *П*, only the relevant necessities were implemented. However, we are presently working towards a public release, and thus are investigating implementing OSC support also, and potentially some additional controller objects.
 

@@ -28,6 +28,6 @@ where each desired sentence or statement has a unique number, followed on a new 
 
 Practically this is achieved by starting with a blank text file, and having the video opened alongside. By playing and pausing the video, for each dialog line take a note of the start and end time, and create blocks as shown above. To turn this text into a *SRT* file, you need to save it using *UTF-8 encoding* with the extension **.srt**, for instance
 
-![]({{site.url}}/assets/images/posts/2014/14-07-31/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-07-31/01.png)
 
 using *Notepad* on *Windows*. Make sure the *SRT* file and video file are in the same folder, open the video file, and you should be greeted with your subtitles! This is a quick and dirty approach that is also useful appropriate for [creating captions and subtitles](https://support.google.com/youtube/answer/2734796?hl=en) for *Youtube*. Many prominent video editing software include some mechanism for easily creating subtitles within the software itself.

@@ -59,8 +59,8 @@ A new version is now available to [play online](http://defuncart.com/games/derdi
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <th><img src="{{site.url}}/assets/images/posts/2018/18-03-14/01.png" style="width:50% height:50%"></th>
-    <th><img src="{{site.url}}/assets/images/posts/2018/18-03-14/02.png" style="width:50% height:50%"></th>
+    <td><img src="{{site.baseurl}}/assets/images/posts/2018/18-03-14/01.png" style="width:50% height:50%"></td>
+    <td><img src="{{site.baseurl}}/assets/images/posts/2018/18-03-14/02.png" style="width:50% height:50%"></td>
   </tr>
 </table>
 <p></p>

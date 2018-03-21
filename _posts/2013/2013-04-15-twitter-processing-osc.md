@@ -9,7 +9,7 @@ tags:
 ---
 Have you ever wanted to integrate *Twitter* inside [*Processing*](https://www.processing.org/){:target="_blank"}? Using [*twitter4J*](http://twitter4j.org/en/index.html){:target="_blank"}, this can be easily achieved within 5 minutes! Firstly head to [developer.twitter.com](https://developer.twitter.com/){:target="_blank"}, log in, go to ‘My Applications’ and create a new application. You should then see a screen as follows:
 
-![]({{site.url}}/assets/images/posts/2013/13-04-15/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-04-15/01.png)
 
 Take a note of the **Consumer key** and **Consumer secret**, and then click on ‘Create my access token’ to reveal **Access token** and **Access token secret**.
 

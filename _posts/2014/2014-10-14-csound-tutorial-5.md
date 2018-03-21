@@ -11,11 +11,11 @@ After our first four tutorials, we can now create our own personal synthesizer w
 
 Well, luckily for us, this is quite easy to achieve! Firstly, with your MIDI keyboard connected, in *CsoundQT* go to **Configure** and select your MIDI input interface (for a comprehensive introduction to MIDI see [here](https://www.midi.org/articles/tutorials)). 
 
-![]({{site.url}}/assets/images/posts/2014/14-10-14/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-10-14/01.png)
 
 If you do not have a MIDI keyboard, then you can instead use the Virtual Keyboard by enabling it via **Configure** as follows
 
-![]({{site.url}}/assets/images/posts/2014/14-10-14/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-10-14/01.png)
 
 or using the CSOption **-+rtmidi=virtual -Ma**
 

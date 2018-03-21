@@ -15,7 +15,7 @@ So how exactly does *Csound* operate? Firstly download the relevant version of 
 
 These *orchestra* and *score* files can be unified into a single *CSD* file, written using any standard text editor, and saved with the .csd extension. They can be compiled and executed using the *Terminal*, however for these tutorials we will utilize the included GUI *CsoundQT*. Open up the application and you should be greeted with the following screen:
 
-![]({{site.url}}/assets/images/posts/2014/14-08-19/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-08-19/01.png)
 
 Type the following code
 

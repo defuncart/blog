@@ -16,11 +16,11 @@ codesign -f -s "Developer ID Application" MyApp.app
 
 where **Developer ID Application** is a 40-digit string unique to a specific developer’s certificate, and **MyApp.app** is the full path to *MyApp*, for instance */Applications/MyApp.app*. If this certificate is already download on your Mac, then go to Keychain Access and locate it. If not, log into the Apple Developer’s portal, and download the certificate.
 
-![]({{site.url}}/assets/images/posts/2014/14-02-25/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-02-25/01.png)
 
 Double click to open it, and then find at the very bottom under *Fingerprints* locate SHA1.
 
-![]({{site.url}}/assets/images/posts/2014/14-02-25/02.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-02-25/02.png)
 
 Copy this string and remove all the spaces. This is then the unique 40-digit string.
 

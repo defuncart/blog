@@ -96,7 +96,7 @@ function checkAnswer(e)
 
 And our very basic game is then operational!
 
-![]({{site.url}}/assets/images/posts/2013/13-12-10/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-10/01.png)
 
 One annoying thing is that the ENTER key doesn’t work by default to submit the answer. This can be fixed by adding the simple script
 

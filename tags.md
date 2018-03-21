@@ -13,5 +13,5 @@ permalink: /tags/
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <a href="/tags/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+  <a href="{{ site.baseurl }}/tags/{{ tagname }}"><code class="highligher-rouge">{{ tagname }}</code></a>
 {% endfor %}

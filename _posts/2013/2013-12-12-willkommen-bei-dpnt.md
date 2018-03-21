@@ -10,7 +10,7 @@ tags:
 ---
 Today I merged the writing and button-pressing versions of the German plural app into a single DPNT (Deutsch Plural Nomen Test) application. Firstly, the main page (index.html) allows the player to play either game, or to get information on the app
 
-![]({{site.url}}/assets/images/posts/2013/13-12-12/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-12/01.png)
 
 The application follows the style derived yesterday, utilizing *New Rockstar* from [*Google Fonts*](https://fonts.google.com/) as the main font. By the way, if you are unfamiliar with *Google Fonts*, basically you can select a font, incorporate it in your HTML file using
 
@@ -30,11 +30,11 @@ p
 
 The information page simply explains how to play the game
 
-![]({{site.url}}/assets/images/posts/2013/13-12-12/02.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-12/02.png)
 
 where *Spiel Eins* is not only an updated UI of Tuesday’s post, but also includes buttons for the umlauts incase the user doesn’t have them on their keyboard (personally I prefer to use ALT+U then A/E/O/U when typing on the Mac US keyboard than use the German keyboard).
 
-![]({{site.url}}/assets/images/posts/2013/13-12-12/03.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-12/03.png)
 
 The actual moving from Main → Spiel Eins/Spiel Zwei is done via the function call
 

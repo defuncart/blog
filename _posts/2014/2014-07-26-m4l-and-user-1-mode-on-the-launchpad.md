@@ -19,19 +19,19 @@ Basically we have two scenarios:
 
 So firstly I created a simple patch to determine which Mode the user presently is in.
 
-![]({{site.url}}/assets/images/posts/2014/14-07-26/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-07-26/01.png)
 
 Now for User1 mode, the notes E3 F3 F#3 G3 C6 C#6 D6 D#6 are the corresponding values for the cells of the first row, so all we need to do is output these notes with velocity 74 (gives red color) in a MIDI clip receiver **Launchpad Output** on **Ch. 5**
 
-![]({{site.url}}/assets/images/posts/2014/14-07-26/02.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-07-26/02.png)
 
 However, instead of adding another MIDI track to the Live project, I want this is to self-contained with *LiAMP.Controller.Launchpad.Monome*. This can be easily achieved by outputting the corresponding MIDI notes from the module itself
 
-![]({{site.url}}/assets/images/posts/2014/14-07-26/03.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-07-26/03.png)
 
 and setting the MIDI output to **‘Lauchpad’** on Channel 5.
 
-![]({{site.url}}/assets/images/posts/2014/14-07-26/04.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-07-26/04.png)
 
 And thus we have a fully functioning Monome beat-indicator for all the four user modes. One of the main setbacks is that the top row is always overwritten, but this personally doesn’t bother me too much, and throughout the last year performing *П* I haven’t felt the need to rectify this yet.
 

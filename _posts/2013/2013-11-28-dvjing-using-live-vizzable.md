@@ -16,25 +16,25 @@ Yesterday I talked about VJing using *VIZZable* and *Live*, mainly concentrating
 
 So firstly create a new *Live* set. Make sure you’re running *Live* 9, *Max* 6.1.3 and download *VIZZable*. Create an audio track for the video clip, and a MIDI track for the master video out. On the Audio track, add a music video of your choice to a clip slot and the **[clipPlayer(audio)]** module. On the MIDI track, add a **[4mixr]** and **[VIEWR]**. Set the **[4mixr]**’s input on channel one to **[clipPlayer(audio)]**. At this point, it is probably a good idea to name our objects, so click on the **[clipPlayer(audio)]** device and press CMD+R (CTRL+R on Windows) or right-click + rename to, say, ‘Player Track 1’. Click on the clip and it should play in the viewer.
 
-![]({{site.url}}/assets/images/posts/2013/13-11-28/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-11-28/01.png)
 
-![]({{site.url}}/assets/images/posts/2013/13-11-28/02.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-11-28/02.png)
 
 This clip can be edited, warped etc. as you would with a normal audio clip.
 
-![]({{site.url}}/assets/images/posts/2013/13-11-28/03.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-11-28/03.png)
 
 These clip can be broken up into separate clips, and then trigger using, for instance, the Novation *Launchpad*. This is kool and all, but not very interesting. How about some effects? Visually, most of *VIZZable*’s effects are MIDI effects. As the video is on an audio track, we can manipulate the audio as per a normal audio clip, so lets add some effects, like EQ, delay.
 
-![]({{site.url}}/assets/images/posts/2013/13-11-28/04.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-11-28/04.png)
 
 For the video effects, we need to create a new MIDI channel. Drop on some effects, for instance, a BRCOSA (Brightness, Contrast, Saturation), Blur, and Kaleidoscope. These works work as per a standard effects chain (**[BRCOSR+]**, **[BLURR]**, then **[KALEIDR]**), so set the **[BRCOSR+]** input as ''Player 1’
 
-![]({{site.url}}/assets/images/posts/2013/13-11-28/04.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-11-28/04.png)
 
 and then set the **[4mixr]** input as **[KALEIDR]**.
 
-![]({{site.url}}/assets/images/posts/2013/13-11-28/05.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-11-28/05.png)
 
 Repeat the process and add as many tracks as you like! As all the modules are built in *Max for Live*, they can be controlled with a MIDI controller, or via OSC etc.
 

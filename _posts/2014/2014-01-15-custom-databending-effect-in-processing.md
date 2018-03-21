@@ -92,14 +92,14 @@ void keyPressed()
 
 So, an image I uploaded to instagram this morning
 
-![]({{site.url}}/assets/images/posts/2014/14-01-15/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-01-15/01.png)
 
 can be effected as follows
 
-![]({{site.url}}/assets/images/posts/2014/14-01-15/02.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-01-15/02.png)
 
 or
 
-![]({{site.url}}/assets/images/posts/2014/14-01-15/03.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-01-15/03.png)
 
 Tomorrow I am going to implement this for iOS and experiment more. In the meantime, the source code and error images can be found [here](https://www.dropbox.com/s/u7t2824baabsgyr/fy_db.zip).

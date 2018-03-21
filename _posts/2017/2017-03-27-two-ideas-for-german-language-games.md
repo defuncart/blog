@@ -11,8 +11,8 @@ Today I started to prototype two new ideas for potential German language learnin
 
 <table style="width:100%" height="20%" cellspacing="5" cellpadding="5">
   <tr>
-    <th><img src="{{site.url}}/assets/images/posts/2017/17-03-27/01.png" style="width:25% height:50%"></th>
-    <th><img src="{{site.url}}/assets/images/posts/2017/17-03-27/02.png" style="width:25% height:50%"></th>
+    <th><img src="{{site.baseurl}}/assets/images/posts/2017/17-03-27/01.png" style="width:25% height:50%"></th>
+    <th><img src="{{site.baseurl}}/assets/images/posts/2017/17-03-27/02.png" style="width:25% height:50%"></th>
   </tr>
 </table>
 <p></p>

@@ -26,11 +26,11 @@ In the mixer section on the launchpad, volume and spatilization are already acco
 
 As you know, the launchpad is an 8x8 matrix with 8 side buttons, thus giving a total of 72 possible MIDI events in User 2 mode. If we take one of those rows, say the last one, four cells could be assigned to the left channel of the Master’s crossfader, and the other four to the right channel, with the special side button in the center.
 
-![]({{site.url}}/assets/images/posts/2014/14-07-24/01.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-07-24/01.png)
 
 As the Master’s crossfader is a fader and hence a single MIDI widget, to map these nine cells, we need to use a little programming and *Max for Live*.
 
-![]({{site.url}}/assets/images/posts/2014/14-07-24/02.png)
+![]({{site.baseurl}}/assets/images/posts/2014/14-07-24/02.png)
 
 Now this patch is a lot simpler than it looks. Basically there are nine **[live.toggle]**s which are MIDI mappable to our nine cells on the *Launchpad*. Each toggle triggers a specific value to be sent to the Master’s crossfader referenced via a **[live.object]**. As these toggles can be toggled on and off, and I only want one to be active at a time (as the crossfader has only one value at any given time), a little bit of scripting is used to toggle off any toggle other than the activated one. This could be achieved other (and maybe easier) ways, but this is what came to me, so I decided to go with it!
 

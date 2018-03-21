@@ -15,7 +15,7 @@ Since launching *Caoga caoga*, I've been working on *Der Die Das*, a fun German 
 - Various tips to recognize articles for certain nouns are included.
 - Progress and difficult nouns can be viewed from a list overview.
 
-![]({{site.url}}/assets/images/posts/2018/18-03-05/01.gif)
+![]({{site.baseurl}}/assets/images/posts/2018/18-03-05/01.gif)
 
 Der Die Das is not designed to teach vocabulary. There are presently no plans to include English (or other language) translations for the German nouns.
 

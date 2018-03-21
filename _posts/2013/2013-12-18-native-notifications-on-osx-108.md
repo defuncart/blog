@@ -8,7 +8,7 @@ tags:
 ---
 Since the introduction of Mountain Lion (OSX 10.8), Notification Center and Notifications are possible for native applications on OSX just like on iOS.
 
-![]({{site.url}}/assets/images/posts/2013/13-12-18/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-18/01.png)
 
 A [*NSUserNotification*](https://developer.apple.com/documentation/foundation/nsusernotification) can be easily created as follows:
 
@@ -63,4 +63,4 @@ If we wish to incorporate buttons into this notification (so that the user has t
 
 Note that regardless of these delegates and methods, the Notification Center WILL suppress notifications if the user has opted out of them in **System Preferences**, or repurpose ALERT notifications displayed as mere BANNERs etc. if the user has chosen so.
 
-![]({{site.url}}/assets/images/posts/2013/13-12-18/02.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-12-18/02.png)

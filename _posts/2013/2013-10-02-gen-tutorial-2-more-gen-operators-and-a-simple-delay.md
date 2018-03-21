@@ -17,11 +17,11 @@ Yesterday we created our own **[+~]** and a simple crossfader in *Gen*. Today we
 
 To understand these better, play around with the following patch.
 
-![]({{site.url}}/assets/images/posts/2013/13-10-02/01.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-02/01.png)
 
 *Gen* also contains built in dsp operators such as **cycle**, **buffer**, **pashor** etc. So, using **cycle**, we can create our own sinetone generator.
 
-![]({{site.url}}/assets/images/posts/2013/13-10-02/02.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-02/02.png)
 
 Operators common to the audio and visual domains can be found [here](https://docs.cycling74.com/max6/dynamic/c74_docs.html#gen_common_operators), and audio only **[gen~]** operators can be found [here](https://docs.cycling74.com/max6/dynamic/c74_docs.html#gen~_operators).
 
@@ -29,7 +29,7 @@ Remember that data in *Gen* is always synchronous, and hence a feedback loop isn
 
 Lets create a simple delay patch.
 
-![]({{site.url}}/assets/images/posts/2013/13-10-02/03.png)
+![]({{site.baseurl}}/assets/images/posts/2013/13-10-02/03.png)
 
 So we create a one-second delay (44100 samples) where the audio folds between [-1, 1]. A feedback is created by mixing this delayed sample with the previous feedback value. A *delayFeedback* **param** controls this from *Max*, with the current feedback value stored in **history** for the next sample. This feedback value is then crossfaded with the original signal, controlled by *delayDryWet* **param**. Notice that both *delayFeedback* and *delayDryWet* are clamped to the range [0, 1] and given initial values.
 

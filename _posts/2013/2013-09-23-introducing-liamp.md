@@ -13,6 +13,6 @@ Communication consists of modules which send performance related data, for insta
 
 Instrument consists of some basic, yet sequence-able, monophonic and polyphonic synthesizers. Composer consists of a group of algorithmic music composition modules, utilizing Markov chains, genetic algorithms, and Arvo Pärt’s *Tintinnabuli* system. Finally, there are also some modules for the Novation Launchpad such that *Monome* simulation can be achieved.
 
-![]({{ site.url}}/assets/images/posts/2013/13-09-23/01.png)
+![]({{ site.baseurl}}/assets/images/posts/2013/13-09-23/01.png)
 
 The package originates from James’ research into custom audiovisual interfaces during his MFA at Goldsmiths, and is still in development. Stay tuned for updates!
