@@ -5,6 +5,7 @@ date: 2015-02-06 13:53:00+01:00
 tags:
 - iOS
 - Swift
+- αბц
 ---
 Last month I started learning the Georgian alphabet using [this course](https://www.memrise.com/course/44023/georgian-alphabet-ipa-with-audio/) on *Memrise*. However, one of my issues with this community-built course was that the Georgian letters were low-quality, pixelated images, while I longed for a way to practically test my knowledge of combinations of these letters in a non-intimidating manner.
 

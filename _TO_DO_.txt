@@ -1,0 +1,14 @@
+IMPORT
+
+defunapps
+09/15 - 10/15
+
+ma101jl
+02/12 - 09/13
+
+defuncart
+all
+
+WRITE
+
+intel buzz 2018, gic 2017, amaze 2017

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g id="Background">
+	<linearGradient id="YellowBlue_1_" gradientUnits="userSpaceOnUse" x1="256" y1="255.3333" x2="256" y2="447.3333">
+		<stop  offset="0" style="stop-color:#FFC506"/>
+		<stop  offset="0.0883" style="stop-color:#D5B01F"/>
+		<stop  offset="0.1969" style="stop-color:#AA9A3A"/>
+		<stop  offset="0.3107" style="stop-color:#848751"/>
+		<stop  offset="0.4282" style="stop-color:#657764"/>
+		<stop  offset="0.5508" style="stop-color:#4D6B73"/>
+		<stop  offset="0.6806" style="stop-color:#3C637D"/>
+		<stop  offset="0.8223" style="stop-color:#325E83"/>
+		<stop  offset="0.9988" style="stop-color:#2F5C85"/>
+	</linearGradient>
+	<rect id="YellowBlue" y="256" style="fill:url(#YellowBlue_1_);" width="512" height="192"/>
+	<linearGradient id="YellowOrange_1_" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="256" y2="64">
+		<stop  offset="0" style="stop-color:#FFC506"/>
+		<stop  offset="0.0524" style="stop-color:#FFB906"/>
+		<stop  offset="0.2127" style="stop-color:#FF9B06"/>
+		<stop  offset="0.3815" style="stop-color:#FF8306"/>
+		<stop  offset="0.5603" style="stop-color:#FF7206"/>
+		<stop  offset="0.7556" style="stop-color:#FF6806"/>
+		<stop  offset="0.9988" style="stop-color:#FF6506"/>
+	</linearGradient>
+	<rect id="YellowOrange" y="64" style="fill:url(#YellowOrange_1_);" width="512" height="192"/>
+</g>
+<g id="Sun">
+	<g style="opacity:0.25;">
+		<defs>
+			
+				<rect id="ClippingPath_1_" x="0" y="50.817" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 512 485.6331)" style="opacity:0.25;" width="512" height="384"/>
+		</defs>
+		<clipPath id="ClippingPath_2_">
+			<use xlink:href="#ClippingPath_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="Rays_1_" style="clip-path:url(#ClippingPath_2_);">
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="258.354,249.716 528.382,409.211 505.724,441.769 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="257.323,248.919 555.387,346.446 540.281,383.124 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="258.354,249.231 571.788,259.861 567.497,299.295 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="257.323,248.919 -52.654,296.543 -55.744,256.996 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="256,249.716 -34.98,365.96 -47.399,328.287 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="257.323,249.716 7.552,438.914 -14.407,405.879 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="257.714,251.314 305.338,561.291 265.792,564.381 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="257.323,249.231 399.124,528.956 362.507,544.209 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="256.688,248.919 470.802,478.067 439.884,502.917 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="257.323,250.626 50.062,485.991 22.326,457.634 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="256.688,251.314 133.043,539.525 97.854,521.218 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="257.714,250.626 219.255,561.873 180.359,554.093 			"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<rect id="ClippingPath" y="64" width="512" height="384"/>
+		</defs>
+		<clipPath id="ClippingPath_3_">
+			<use xlink:href="#ClippingPath"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="Rays" style="clip-path:url(#ClippingPath_3_);">
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="253.646,249.1 -16.382,89.605 6.276,57.047 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="254.677,249.898 -43.387,152.37 -28.281,115.693 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="253.646,249.586 -59.788,238.955 -55.497,199.521 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="254.677,249.898 564.654,202.274 567.744,241.82 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="256,249.1 546.979,132.857 559.399,170.529 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="254.677,249.1 504.448,59.903 526.407,92.937 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="254.286,247.503 206.662,-62.474 246.208,-65.564 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="254.677,249.586 112.876,-30.139 149.493,-45.393 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="255.312,249.898 41.198,20.75 72.116,-4.101 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="254.677,248.191 461.938,12.825 489.674,41.183 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="255.312,247.503 378.957,-40.709 414.146,-22.401 			"/>
+			<polygon style="opacity:0.25;fill:#FFFF00;" points="254.286,248.191 292.745,-63.056 331.641,-55.277 			"/>
+		</g>
+	</g>
+</g>
+<g id="Land">
+	<path id="Beach" style="fill:#2E111C;" d="M512,448H0v-42.333c0,0,79.251,18.307,145.195,5.367
+		c15.112-2.966,29.116-9.783,41.28-19.228C242.176,348.554,512,345.315,512,345.315V448z"/>
+	<path id="Island" style="fill:#2E111C;" d="M197.055,340.47c0,4.265-28.166-6.256-50.448-3.96c-14.266,1.47-29.568,12.1-48.4,12.1
+		c-21.292,0-29.576-6.964-44.733-8.8c-19.188-2.324-36.667-3.224-36.667-7.132c0-3.756,11.273-7.13,29.181-9.45
+		c2.732-0.354,8.655-9.65,17.019-14.218c6.783-3.704,15.95-2.245,20.132-6.73c10.005-10.731,6.694-21.344,17.962-25.607
+		c11.048-4.18,22.748,17.243,30.266,17.243c16.415,0,7.987,21.285,21.107,22.427C177.913,318.557,197.055,335.854,197.055,340.47z"
+		/>
+	<path id="Stone" style="fill:#2E111C;" d="M61.745,421.69c0,12.909-7.804,13.127-22.302,13.127S9.245,434.598,9.245,421.69
+		c0-12.909,14.081-17.5,28.579-17.5S61.745,408.781,61.745,421.69z"/>
+	<path id="Stone_1_" style="fill:#2E111C;" d="M478,364c-3.991,12.276-32.69-0.518-46.478-5
+		c-13.787-4.482-30.441-1.824-26.451-14.101c3.991-12.276,18.802-12.29,32.589-7.808C451.448,341.574,481.991,351.724,478,364z"/>
+	<path id="Stone_2_" style="fill:#2E111C;" d="M401.412,354.023c0,12.909-24.745,12.909-24.745,0S401.412,341.114,401.412,354.023z"
+		/>
+	<path id="Stone_3_" style="fill:#2E111C;" d="M191.436,390.326c5.117,11.851-24.877,21.214-38.187,26.961
+		c-13.31,5.747-24.053,18.747-29.17,6.897c-5.117-11.851,5.99-21.648,19.3-27.396S186.319,378.475,191.436,390.326z"/>
+</g>
+<g id="Trees">
+	<g id="Tree1">
+		<path style="fill:#2E111C;" d="M45.384,301.966c-3.779-1.89-6.553-2.12-6.553-2.12s0,0-6.832,7.631
+			c-3.18-0.787,1.945-9.717,1.945-9.717s0.001-0.085-6.354-0.085c-6.771,0,4.252-6.889,6.828-5.208c0,0-0.844-3.964-0.053-4.594
+			c0.862-0.748,3.404,3.503,5.233,3.41c3.581-0.182,6.927,0.527,6.927,0.881c0,0.354-4.2,3.679-4.2,3.679
+			S46.958,297.675,45.384,301.966z"/>
+		<path style="fill:#2E111C;" d="M42.653,334.246c-2.289,0-9.67,0-6.284,0s0.69-37.456,0.69-37.456l1.855-0.703
+			C38.914,296.087,44.942,334.246,42.653,334.246z"/>
+	</g>
+	<g id="Tree2">
+		<path style="fill:#2E111C;" d="M86.019,289.654c-4.193-0.519-6.884,0.19-6.884,0.19s0,0-3.891,9.474
+			c-3.261,0.32-1.412-9.809-1.412-9.809s-0.028-0.08-6.017,2.042c-6.382,2.261,1.707-7.913,4.697-7.189c0,0-2.119-3.455-1.584-4.313
+			c0.563-0.993,4.378,2.165,6.071,1.466c3.315-1.367,6.706-1.816,6.824-1.483s-2.73,4.87-2.73,4.87S86.07,285.084,86.019,289.654z"
+			/>
+		<path style="fill:#2E111C;" d="M82.048,323.417c-5.089-0.175-5.656,0-5.656,0c7.83-0.395,0.621-33.71,0.621-33.71l1.669-0.633
+			C78.683,289.074,87.196,323.989,82.048,323.417z"/>
+	</g>
+	<g id="Tree3">
+		<path style="fill:#2E111C;" d="M112.918,263.652c3.779-1.89,6.553-2.12,6.553-2.12s0,0,6.832,7.631
+			c3.18-0.787-1.945-9.717-1.945-9.717s-0.001-0.085,6.354-0.085c6.771,0-4.252-6.889-6.828-5.208c0,0,0.844-3.964,0.053-4.594
+			c-0.862-0.748-3.404,3.502-5.233,3.41c-3.581-0.182-6.927,0.527-6.927,0.881s4.2,3.679,4.2,3.679S111.343,259.361,112.918,263.652
+			z"/>
+		<path style="fill:#2E111C;" d="M115.648,295.932c2.289,0,9.67,0,6.284,0s-0.69-37.456-0.69-37.456l-1.855-0.703
+			C119.388,257.773,113.36,295.932,115.648,295.932z"/>
+	</g>
+	<g id="Tree4">
+		<path style="fill:#2E111C;" d="M166.604,295.885c4.193-0.519,6.884,0.19,6.884,0.19s0,0,3.891,9.474
+			c3.261,0.32,1.412-9.809,1.412-9.809s0.028-0.08,6.017,2.042c6.382,2.261-1.707-7.913-4.697-7.189c0,0,2.119-3.455,1.584-4.313
+			c-0.563-0.993-4.378,2.165-6.071,1.466c-3.315-1.367-6.706-1.816-6.824-1.483s2.73,4.87,2.73,4.87
+			S166.552,291.315,166.604,295.885z"/>
+		<path style="fill:#2E111C;" d="M170.574,329.648c5.089-0.175,5.656,0,5.656,0c-7.83-0.395-0.621-33.71-0.621-33.71l-1.669-0.633
+			C173.939,295.305,165.426,330.22,170.574,329.648z"/>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+</g>
+</svg>
