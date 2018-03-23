@@ -3,7 +3,7 @@ layout: post
 title: 'Learning Vector Art: Day 1'
 date: 2018-03-19 18:00:00 +0100
 tags:
-- LearningVectorArt
+category: lva
 ---
 
 Over the past few years I've become more involved with the art and design process of the apps and games I've been working on. Although I cannot really draw or paint, I've been creating digital artworks for almost 10 years and hold a Masters of Fine Art. One thing I would like to learn is how to draw vector illustrations for games.

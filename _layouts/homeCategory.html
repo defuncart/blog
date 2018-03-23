@@ -1,17 +1,16 @@
 ---
 layout: home
-list_title: Tech
 ---
 
 {% if site.posts.size > 0 %}
   <h2 class="post-list-heading">
-    <a href="{{ site.baseurl }}/music">Music</a> &emsp;
-    Tech &emsp;
-    <a href="{{ site.baseurl }}/tags">Tags</a>
+    {% if page.list_title == "Music" %}Music{% else %}<a href="{{ site.baseurl }}/music">Music</a>{% endif %} &emsp;
+    {% if page.list_title == "Tech" %}Tech{% else %}<a href="{{ site.baseurl }}/index">Tech</a>{% endif %} &emsp;
+    {% if page.list_title == "Tags" %}Tags{% else %}<a href="{{ site.baseurl }}/tags">Tags</a>{% endif %}
   </h2>
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.category != "music" and post.category != "lva" %}
+      {% if post.category == page.category %}
         <li>
           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
           <span class="post-meta">{{ post.date | date: date_format }}</span>

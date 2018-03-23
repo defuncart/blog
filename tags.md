@@ -1,8 +1,12 @@
 ---
-layout: page
-title: Tags
-permalink: /tags/
+layout: home
 ---
+
+<h2 class="post-list-heading">
+  <a href="{{ site.baseurl }}/music">Music</a> &emsp;
+  <a href="{{ site.baseurl }}/index">Tech</a> &emsp;
+  Tags
+</h2>
 
 {% capture temptags %}
   {% for tag in site.tags %}

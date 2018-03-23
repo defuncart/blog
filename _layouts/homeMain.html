@@ -1,12 +1,11 @@
 ---
 layout: home
-list_title: Tech
 ---
 
 {% if site.posts.size > 0 %}
   <h2 class="post-list-heading">
     <a href="{{ site.baseurl }}/music">Music</a> &emsp;
-    Tech &emsp;
+    {{ page.list_title | default: "Posts" }} &emsp;
     <a href="{{ site.baseurl }}/tags">Tags</a>
   </h2>
   <ul class="post-list">
