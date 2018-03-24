@@ -2,6 +2,7 @@
 layout: post
 title: 'Return of the Hackintosh?'
 date: 2015-03-11 22:00:00 +01:00
+category: tech
 tags:
 - macOS
 ---

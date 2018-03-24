@@ -2,6 +2,7 @@
 layout: post
 title:  "New Year, New Blog"
 date:   2018-01-02 20:00:00 +0100
+category: tech
 tags:
 ---
 

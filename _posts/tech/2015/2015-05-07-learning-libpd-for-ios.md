@@ -2,6 +2,7 @@
 layout: post
 title: Learning libPD for iOS
 date: 2015-05-07 16:00:00 +02:00
+category: tech
 tags:
 - iOS
 - PureData

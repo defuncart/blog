@@ -4,7 +4,7 @@ title:  "Chew Your Own Fat: Review of This is Pop Music"
 date:   2012-03-17 22:00:00 +0100
 category: music
 tags:
-- strawberrycomplexity
+- StrawberryComplexity
 ---
 
 > "Trying to review this EP would be a futile waste of fucking time. It HAS to be experienced".

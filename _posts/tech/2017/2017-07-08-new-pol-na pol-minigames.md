@@ -2,6 +2,7 @@
 layout: post
 title: New Pół na pół minigames
 date: 2017-07-08 08:37:49 +02:00
+category: tech
 tags:
 - Półnapół
 - Unity

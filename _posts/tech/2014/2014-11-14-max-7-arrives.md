@@ -2,6 +2,7 @@
 layout: post
 title: 'Max 7 Arrives'
 date: 2014-11-14 09:06:00 +01:00
+category: tech
 tags:
 - Max
 ---

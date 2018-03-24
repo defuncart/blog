@@ -2,6 +2,7 @@
 layout: post
 title: 'Max 7 Sneak Peak'
 date: 2014-10-08 11:31:58 +02:00
+category: tech
 tags:
 - Max
 ---

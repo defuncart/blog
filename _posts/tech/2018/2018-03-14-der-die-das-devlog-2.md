@@ -2,6 +2,7 @@
 layout: post
 title: 'Der Die Das Devlog #2'
 date: 2018-03-14 18:00:00 +0100
+category: tech
 tags:
 - DerDieDas
 ---

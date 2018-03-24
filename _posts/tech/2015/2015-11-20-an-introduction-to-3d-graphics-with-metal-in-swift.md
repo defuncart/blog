@@ -2,6 +2,7 @@
 layout: post
 title: An introduction to 3D Graphics with Metal in Swift
 date: 2015-11-20 17:02:30 +01:00
+category: tech
 tags:
 - iOS
 - macOS

@@ -2,6 +2,7 @@
 layout: post
 title: FlappySwift
 date: 2014-06-03 15:00:00 +02:00
+category: tech
 tags:
 - Swift
 ---

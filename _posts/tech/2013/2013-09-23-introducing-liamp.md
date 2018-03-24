@@ -2,6 +2,7 @@
 layout: post
 title: Introducing LiAMP
 date: 2013-09-23 22:00:00 +02:00
+category: tech
 tags:
 - LiAMP
 - Max

@@ -2,6 +2,7 @@
 layout: post
 title:  'Unity or SpriteKit for 2D iOS Game Development?'
 date:   2017-11-09 20:00:00 +0100
+category: tech
 tags:
 - iOS
 - Unity

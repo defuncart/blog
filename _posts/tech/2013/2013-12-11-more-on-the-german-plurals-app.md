@@ -2,6 +2,7 @@
 layout: post
 title: More on the German Plurals App
 date: 2013-12-11 16:15:00 +01:00
+category: tech
 tags:
 - GermanLanguage
 - HTML

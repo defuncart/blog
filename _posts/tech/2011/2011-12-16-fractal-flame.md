@@ -2,6 +2,7 @@
 layout: post
 title:  "Fractal Flame"
 date:   2011-12-16 22:00:00 +0100
+category: tech
 tags:
 - iOS
 - openFrameworks

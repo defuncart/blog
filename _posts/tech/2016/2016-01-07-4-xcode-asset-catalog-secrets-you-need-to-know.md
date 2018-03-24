@@ -2,6 +2,7 @@
 layout: post
 title: 4 Xcode Asset Catalog Secrets You Need to Know
 date: 2016-01-07 11:01:46 +01:00
+category: tech
 tags:
 - Xcode
 - iOS

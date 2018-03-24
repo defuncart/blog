@@ -2,6 +2,7 @@
 layout: post
 title: Learning how to stutter (to good effect)
 date: 2015-10-08 17:12:06 +02:00
+category: tech
 tags:
 - Max
 - MaxForLive

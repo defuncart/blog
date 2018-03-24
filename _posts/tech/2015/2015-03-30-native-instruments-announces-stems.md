@@ -2,6 +2,7 @@
 layout: post
 title: 'Native Instruments announces Stems'
 date: 2015-03-30 22:00:00 +02:00
+category: tech
 tags:
 #- stems
 - dj

@@ -2,6 +2,7 @@
 layout: post
 title: Image Masher!
 date: 2013-09-25 10:22:50 +02:00
+category: tech
 tags:
 - postdigital
 - glitch

@@ -2,6 +2,7 @@
 layout: post
 title: M4L and User 1 Mode on the Launchpad
 date: 2014-07-26 22:00:00 +02:00
+category: tech
 tags:
 - LiAMP
 - NovationLaunchpad

@@ -2,6 +2,7 @@
 layout: post
 title: DJing using a Launchpad Part II
 date: 2014-07-25 20:46:50 +02:00
+category: tech
 tags:
 - LiAMP
 - dj

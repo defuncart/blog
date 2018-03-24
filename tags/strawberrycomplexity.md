@@ -1,5 +1,5 @@
 ---
 layout: tagPage
-title: "Tag: strawberrycomplexity"
-tag: "strawberrycomplexity"
+title: "Tag: StrawberryComplexity"
+tag: "StrawberryComplexity"
 ---

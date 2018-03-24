@@ -2,6 +2,7 @@
 layout: post
 title: Code Signing OSX Applications using the Terminal
 date: 2014-02-25 23:59:00 +01:00
+category: tech
 tags:
 - macOS
 - ObjectiveC

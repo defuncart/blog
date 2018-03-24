@@ -2,6 +2,7 @@
 layout: post
 title: DJ Using Only a Launchpad
 date: 2014-07-24 22:00:00 +02:00
+category: tech
 tags:
 - LiAMP
 - dj

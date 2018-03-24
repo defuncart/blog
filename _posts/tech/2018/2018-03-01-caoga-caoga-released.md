@@ -2,6 +2,7 @@
 layout: post
 title: 'Caoga caoga is released!'
 date: 2018-03-01 10:00:00 +0100
+category: tech
 tags:
 - CaogaCaoga
 - iOS

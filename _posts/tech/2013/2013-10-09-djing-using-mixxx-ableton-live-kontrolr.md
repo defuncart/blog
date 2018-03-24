@@ -2,6 +2,7 @@
 layout: post
 title: DJing using Mixxx + Ableton Live + Kontrolr
 date: 2013-10-09 11:29:58 +02:00
+category: tech
 tags:
 - Kontrolr
 - MaxForLive

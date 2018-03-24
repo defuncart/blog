@@ -2,6 +2,7 @@
 layout: post
 title: Waiting Until all jQuery AJAX Request are Successfully Completed
 date:  2013-12-17 23:32:00 +01:00
+category: tech
 tags:
 - javascript
 - jQuery

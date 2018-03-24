@@ -3,6 +3,7 @@ layout: post
 title: Programmatically Checking if an App is Installed on iOS + Launching Apps via
   URL Schemes
 date: 2013-12-16 23:07:00 +01:00
+category: tech
 tags:
 - iOS
 - ObjectiveC

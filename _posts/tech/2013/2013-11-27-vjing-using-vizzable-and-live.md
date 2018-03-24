@@ -2,6 +2,7 @@
 layout: post
 title: VJing using VIZZable and Live
 date: 2013-11-27 22:00:00 +01:00
+category: tech
 tags:
 - Max
 - Jitter

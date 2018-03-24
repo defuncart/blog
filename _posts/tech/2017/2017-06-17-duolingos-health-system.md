@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Duolingo's Health System: To Discourage Binging or a Blatant Paywall?"
+title:  "Duolingo's Health System: To Discourage Binge Playing or a Blatant Paywall?"
 date:   2017-06-17 18:00:00 +0100
+category: tech
 tags:
-#- GICPoznań
-#- IntelBuzzWorkshop
 - article
 ---
 

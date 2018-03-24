@@ -2,6 +2,7 @@
 layout: post
 title: Twitter + Processing + OSC
 date: 2013-04-15 22:00:00+01:00
+category: tech
 tags:
 - Processing
 - twitter

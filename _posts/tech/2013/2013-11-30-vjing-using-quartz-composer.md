@@ -2,6 +2,7 @@
 layout: post
 title: VJing using Quartz Composer
 date: 2013-11-30 22:00:00 +01:00
+category: tech
 tags:
 - QuartzComposer
 - vj

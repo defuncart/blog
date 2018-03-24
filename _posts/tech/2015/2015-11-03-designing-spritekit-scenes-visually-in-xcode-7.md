@@ -2,6 +2,7 @@
 layout: post
 title: Designing SpriteKit Scenes Visually in Xcode 7 (but keeping support for iOS8)
 date: 2015-11-03 12:39:29 +01:00
+category: tech
 tags:
 - Swift
 - SpriteKit

@@ -2,6 +2,7 @@
 layout: post
 title: Inter-device Audio Mode
 date: 2015-06-17 16:00:00 +02:00
+category: tech
 tags:
 - iOS
 - macOS

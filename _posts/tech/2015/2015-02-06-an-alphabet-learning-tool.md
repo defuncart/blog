@@ -2,6 +2,7 @@
 layout: post
 title: 'αბц - An Alphabet Learning Tool'
 date: 2015-02-06 13:53:00+01:00
+category: tech
 tags:
 - iOS
 - Swift

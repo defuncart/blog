@@ -2,6 +2,7 @@
 layout: post
 title: 'Übersetzungstabellen deutsch-englisch für Calc-Funktionen'
 date: 2015-03-18 16:53:37 +01:00
+category: tech
 tags:
 #- LibreOffice
 #- openOffice

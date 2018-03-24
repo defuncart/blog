@@ -2,6 +2,7 @@
 layout: post
 title: Determining an Algorithm for Conjugating Russian Verbs (contd.)
 date: 2015-07-13 15:01:21 +02:00
+category: tech
 tags:
 - Swift
 - Konjugator

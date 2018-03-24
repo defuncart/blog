@@ -2,6 +2,7 @@
 layout: post
 title: Making an SKLabelNode Clickable
 date: 2015-12-02 13:00:00 +01:00
+category: tech
 tags:
 - SpriteKit
 - iOS

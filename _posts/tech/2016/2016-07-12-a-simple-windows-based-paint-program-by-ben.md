@@ -2,6 +2,7 @@
 layout: post
 title: XBRZPXL.EXE
 date: 2016-07-12 09:11:34 +02:00
+category: tech
 tags: []
 ---
 

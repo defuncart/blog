@@ -2,6 +2,7 @@
 layout: post
 title: Creating a Quick Look plugin
 date: 2014-01-26 22:00:00 +01:00
+category: tech
 tags:
 - macOS
 - ObjectiveC

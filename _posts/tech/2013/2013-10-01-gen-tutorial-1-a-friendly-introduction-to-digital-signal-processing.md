@@ -2,6 +2,7 @@
 layout: post
 title: Gen Tutorial 1 - A Friendly Introduction to Digital Signal Processing
 date: 2013-10-01 22:00:00 +02:00
+category: tech
 tags:
 - Max
 - Gen

@@ -1,0 +1,10 @@
+<p><div align="{% if include.align %}{{ include.align }}{% else %}center{% endif %}">
+	<iframe style="border: 0; width: {% if include.width %}{{ include.width }}{% else %}100%{% endif %};
+	height: {% if include.height %}{{ include.height }}{% else %}100px{% endif %};"
+	src="http://bandcamp.com/EmbeddedPlayer/
+	album={{ include.id }}/
+	size=large/
+	bgcol={% if include.bgcol %}{{ include.bgcol }}{% else %}ffffff{% endif %}/
+	linkcol=0687f5/
+	artwork=small/
+	transparent=true/" seamless></iframe></div></p>

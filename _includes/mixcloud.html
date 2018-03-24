@@ -1,0 +1,11 @@
+<p><iframe frameborder="0" {% if include.height %} height="{{ include.height }}" {% else %} height="60"{% endif %}
+	src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2F
+	{% if include.artist %}{{ include.artist }}{% else %}strawberrycomplexity{% endif %}%2F
+	{{ include.id }}%2F
+	&show_tracklist=
+	&stylecolor=
+	&hide_artwork=1
+	&mini={% if include.mini %}{{ include.mini }}{% else %}1{% endif %}
+	&embed_type=widget_standard
+	&embed_uuid=22b203a2-5bf0-47d7-b9d1-0ad4e9d68d3b
+	&hide_cover=1" width="100%"></iframe></p>

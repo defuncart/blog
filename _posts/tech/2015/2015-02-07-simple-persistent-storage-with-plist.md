@@ -2,6 +2,7 @@
 layout: post
 title: 'Swift for JavaScript Engineers: Simple Persistent Storage with plist'
 date: 2015-02-07 15:52:42+01:00
+category: tech
 tags:
 - iOS
 - Swift

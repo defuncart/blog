@@ -2,6 +2,7 @@
 layout: post
 title: 'A Declension Game Idea'
 date: 2015-02-09 13:00:41+01:00
+category: tech
 tags:
 - macOS
 - Swift

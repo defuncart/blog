@@ -2,6 +2,7 @@
 layout: post
 title: Dubstep Bassline using Kinect + Ableton
 date: 2014-04-22 22:00:00 +02:00
+category: tech
 tags:
 - Max
 - MaxForLive

@@ -2,6 +2,7 @@
 layout: post
 title: Gen Tutorial 3 - Subpatching and Buffers
 date: 2013-10-03 22:00:00 +02:00
+category: tech
 tags:
 - Max
 - Gen

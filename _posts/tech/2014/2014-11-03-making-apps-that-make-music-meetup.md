@@ -2,6 +2,7 @@
 layout: post
 title: 'Making Apps that Make Music Meetup'
 date: 2014-11-03 23:00:00 +01:00
+category: tech
 tags:
 - MakingAppsThatMakeMusic
 ---

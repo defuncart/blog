@@ -2,6 +2,7 @@
 layout: post
 title: 'αბц for Android'
 date: 2015-08-28 23:56:52 +02:00
+category: tech
 tags:
 - Android
 - AndroidStudio

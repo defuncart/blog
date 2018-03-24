@@ -2,6 +2,7 @@
 layout: post
 title:  "blockNect"
 date:   2012-02-24 22:00:00 +0100
+category: tech
 tags:
 - iOS
 - openFrameworks

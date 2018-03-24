@@ -1,28 +1,5 @@
 ---
-layout: home
+layout: homeCategory
 list_title: Tech
+category: tech
 ---
-
-{% if site.posts.size > 0 %}
-  <h2 class="post-list-heading">
-    <a href="{{ site.baseurl }}/music">Music</a> &emsp;
-    Tech &emsp;
-    <a href="{{ site.baseurl }}/tags">Tags</a>
-  </h2>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      {% if post.category != "music" and post.category != "lva" %}
-        <li>
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h3>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-{% endif %}

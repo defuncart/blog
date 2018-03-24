@@ -3,6 +3,7 @@ layout: post
 title: 'Quit my full time corporate job. Built an iOS game. It became #1 in the App
   Store. Here are revenue numbers and what I learned.'
 date: 2016-11-09 18:00:00 +01:00
+category: tech
 tags:
 - iOS
 #- gamedev

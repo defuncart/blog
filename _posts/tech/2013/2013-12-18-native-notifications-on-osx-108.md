@@ -2,6 +2,7 @@
 layout: post
 title: Native Notifications on OSX 10.8+
 date: 2013-12-18 23:06:11 +01:00
+category: tech
 tags:
 - macOS
 - ObjectiveC

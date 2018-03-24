@@ -2,6 +2,7 @@
 layout: post
 title: 'Aspector / Conjugator'
 date: 2015-06-29 22:35:25 +02:00
+category: tech
 tags:
 - macOS
 - Swift

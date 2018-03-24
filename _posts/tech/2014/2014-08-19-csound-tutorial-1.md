@@ -2,6 +2,7 @@
 layout: post
 title: Csound Tutorial 1
 date: 2014-08-19 16:15:00 +02:00
+category: tech
 tags:
 - Csound
 - AudioProgramming

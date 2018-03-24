@@ -2,6 +2,7 @@
 layout: post
 title: Two Ideas For German Language Games
 date: 2017-03-27 20:00:00+02:00
+category: tech
 tags:
 - DerDieDas
 - FünfzigFünfzig

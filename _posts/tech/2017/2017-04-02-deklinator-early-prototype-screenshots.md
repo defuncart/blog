@@ -2,6 +2,7 @@
 layout: post
 title: Deklinator Early Prototype Screenshots
 date: 2017-04-02 17:58:18 +02:00
+category: tech
 tags:
 - Deklinator
 - Unity

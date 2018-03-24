@@ -2,6 +2,7 @@
 layout: post
 title: Introducing kontrolr
 date: 2013-09-22 22:00:00 +02:00
+category: tech
 tags:
 - Kontrolr
 - iOS

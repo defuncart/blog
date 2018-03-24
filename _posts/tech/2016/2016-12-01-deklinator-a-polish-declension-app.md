@@ -2,6 +2,7 @@
 layout: post
 title: Deklinator - A Polish Declension App
 date: 2016-12-01 18:46:31 +01:00
+category: tech
 tags:
 - Deklinator
 ---

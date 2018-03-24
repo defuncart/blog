@@ -1,7 +1,8 @@
 ---
 layout: post
 title: MIDI over Bluetooth LE between iOS 8 and OSX 10.10
-date: '2015-02-20T23:13:00+01:00'
+date: 2015-02-20 23:13:00 +01:00
+category: tech
 tags:
 - iOS
 - macOS

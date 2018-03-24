@@ -2,6 +2,7 @@
 layout: post
 title: Custom US-Polish Keyboard (for OS X)
 date: 2015-12-14 22:00:00 +01:00
+category: tech
 tags:
 - macOS
 ---

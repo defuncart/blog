@@ -2,6 +2,7 @@
 layout: post
 title: A New Coat of Paint for Pd
 date: 2014-11-14 09:20:00 +01:00
+category: tech
 tags:
 - PureData
 ---

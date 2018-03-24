@@ -2,6 +2,7 @@
 layout: post
 title: Free Knowledge Game Jam
 date: '2015-10-25T22:00:00+01:00'
+category: tech
 tags:
 - gamejam
 ---
