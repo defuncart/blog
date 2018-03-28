@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path style="fill:#8F8F8F;" d="M181.155,350.508h-68.75V111.946c0,0,0-14.094,0-34.719S146.78,6.758,146.78,6.758
+			s34.375,47.953,34.375,68.922s0,35.406,0,35.406V350.508z"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="129.5925" y1="6.7583" x2="129.5925" y2="350.5083">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_1_);" d="M146.78,350.508h-34.375V111.946c0,0,0-14.094,0-34.719S146.78,6.758,146.78,6.758V350.508z
+			"/>
+	</g>
+	<rect x="130.5" y="363.268" style="fill:#FDC606;" width="32.56" height="110"/>
+	<g>
+		<g>
+			<polygon style="fill:#FDC606;" points="212.78,367.998 181.155,363.571 112.405,363.571 80.78,367.998 80.78,345.998 
+				112.405,350.508 181.155,350.508 212.78,345.998 			"/>
+			<circle style="fill:#FDC606;" cx="146.78" cy="481.188" r="24.053"/>
+			<rect x="130.5" y="364.698" width="32.56" height="92.437"/>
+			<circle cx="146.78" cy="481.188" r="13.64"/>
+		</g>
+		<rect x="133.452" y="365.817" style="fill:#8F8F8F;" width="6.6" height="88"/>
+	</g>
+</g>
+<g>
+	<rect x="393.127" y="126.826" style="fill:#5B2C06;" width="31.2" height="287.2"/>
+	<rect x="385.927" y="140.426" style="fill:#8C8C8C;" width="44" height="66.4"/>
+	<path style="fill:#A9A9A9;" d="M308.327,98.026c0,23.2,77.6,42.4,77.6,42.4v66.4c0,0-66.2,2.8-77.6,84
+		C296.927,372.026,265.727,93.626,308.327,98.026z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="283.5973" y1="201.8266" x2="382.9271" y2="201.8266">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_2_);" d="M305.327,98.026c0,23.2,77.6,42.4,77.6,42.4v66.4c0,0-66.2,2.8-77.6,84
+		C293.927,372.026,262.727,93.626,305.327,98.026z"/>
+	<path style="fill:#A9A9A9;" d="M454.727,180.426c-20.815,0.105-24.8,26.4-24.8,26.4v-66.4c0,0,3.759,26.003,24.8,26.4
+		C465.327,167.026,464.677,180.376,454.727,180.426z"/>
+	<rect x="385.927" y="305.679" style="fill:#5B2C06;" width="44" height="108.347"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

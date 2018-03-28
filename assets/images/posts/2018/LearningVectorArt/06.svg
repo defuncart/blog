@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g id="Building">
+	<rect x="91.086" y="109.997" style="fill:#C62C04;" width="329.828" height="386.906"/>
+	<rect x="87.57" y="32.804" style="fill:#2D2D2D;" width="336.861" height="77.193"/>
+	<rect x="87.57" y="474.847" style="fill:#AAA8A9;" width="336.861" height="34.512"/>
+	<rect x="87.57" y="95.957" style="fill:#AAA8A9;" width="336.861" height="20"/>
+	<rect x="102.969" style="fill:#C62C04;" width="32.804" height="32.804"/>
+	<rect x="380.814" style="fill:#C62C04;" width="32.804" height="32.804"/>
+</g>
+<g id="Window">
+	<rect x="105.632" y="134.564" style="fill:#FFFFFF;stroke:#AAA8A9;stroke-miterlimit:10;" width="77.375" height="151.151"/>
+	<rect x="114.319" y="142.639" style="fill:#53AEC2;" width="60" height="135"/>
+	<rect x="116.819" y="145.855" style="fill:#60D5E8;" width="55" height="130"/>
+	<rect x="111.966" y="215.365" style="fill:#FFFFFF;" width="65" height="10"/>
+</g>
+<g id="Window_1_">
+	<rect x="221.137" y="134.564" style="fill:#FFFFFF;stroke:#AAA8A9;stroke-miterlimit:10;" width="77.375" height="151.151"/>
+	<rect x="229.824" y="142.639" style="fill:#53AEC2;" width="60" height="135"/>
+	<rect x="232.324" y="145.855" style="fill:#60D5E8;" width="55" height="130"/>
+	<rect x="227.471" y="215.365" style="fill:#FFFFFF;" width="65" height="10"/>
+</g>
+<g id="Window_2_">
+	<rect x="330.881" y="134.564" style="fill:#FFFFFF;stroke:#AAA8A9;stroke-miterlimit:10;" width="77.375" height="151.151"/>
+	<rect x="339.569" y="142.639" style="fill:#53AEC2;" width="60" height="135"/>
+	<rect x="342.069" y="145.855" style="fill:#60D5E8;" width="55" height="130"/>
+	<rect x="337.216" y="215.365" style="fill:#FFFFFF;" width="65" height="10"/>
+</g>
+<g id="SmallWindow">
+	<rect x="105.779" y="324.151" style="fill:#FFFFFF;stroke:#AAA8A9;stroke-miterlimit:10;" width="77.375" height="110"/>
+	<rect x="114.466" y="330.028" style="fill:#53AEC2;" width="60" height="98.246"/>
+	<rect x="116.966" y="332.368" style="fill:#60D5E8;" width="55" height="94.607"/>
+</g>
+<g id="SmallWindow_1_">
+	<rect x="331.028" y="324.151" style="fill:#FFFFFF;stroke:#AAA8A9;stroke-miterlimit:10;" width="77.375" height="110"/>
+	<rect x="339.716" y="330.028" style="fill:#53AEC2;" width="60" height="98.246"/>
+	<rect x="342.216" y="332.368" style="fill:#60D5E8;" width="55" height="94.607"/>
+</g>
+<g id="Door">
+	<g id="DoorFrame">
+		
+			<rect x="212.875" y="318.178" style="fill:#FFFFFF;stroke:#848383;stroke-width:2;stroke-miterlimit:10;" width="94.023" height="164.765"/>
+		
+			<rect x="179.993" y="355.681" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 660.2783 140.6298)" style="fill:none;stroke:#AAA8A9;stroke-width:4;stroke-miterlimit:10;" width="159.662" height="89.546"/>
+	</g>
+	<circle id="Sighthole" style="fill:#1A1A1A;stroke:#666666;stroke-miterlimit:10;" cx="259.886" cy="358.905" r="3"/>
+	<g id="Knob">
+		<circle style="fill:#AAA8A9;" cx="298.397" cy="405.434" r="8.501"/>
+		<circle style="fill:#FCEE21;stroke:#D8C61E;stroke-width:2;stroke-miterlimit:10;" cx="298.397" cy="400.56" r="8.501"/>
+	</g>
+</g>
+<g id="Stairs">
+	<rect x="212.875" y="474.847" style="fill:#666666;" width="94.023" height="37.153"/>
+	<rect x="193.118" y="474.847" style="fill:#808080;" width="19.756" height="37.153"/>
+	<rect x="212.875" y="488.367" style="fill:#808080;" width="94.023" height="8.537"/>
+	<rect x="306.898" y="474.847" style="fill:#808080;" width="19.756" height="37.153"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

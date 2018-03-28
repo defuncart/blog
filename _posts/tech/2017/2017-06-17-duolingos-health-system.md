@@ -65,6 +65,6 @@ I find the 'health' system to be both frustrating and an exaggerated form of pay
 
 ### Resources
 
-[Duolingo Discussions - State of Monetization at Duolingo]([Duolingo Discussions - State of Monetization at Duolingo II](https://www.duolingo.com/comment/22426779/State-of-Monetization-at-Duolingo-II)
+[Duolingo Discussions - State of Monetization at Duolingo](https://www.duolingo.com/comment/15695026/State-of-Monetization-at-Duolingo)
 
 [Duolingo Discussions - State of Monetization at Duolingo II](https://www.duolingo.com/comment/22426779/State-of-Monetization-at-Duolingo-II)

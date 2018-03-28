@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tappy Plane"
-date:   2017-12-14 20:00:00 +0100
+title: '#GameInAWeek: Tappy Plane'
+date: 2017-12-14 20:00:00 +0100
 category: tech
 tags:
 - GameInAWeek

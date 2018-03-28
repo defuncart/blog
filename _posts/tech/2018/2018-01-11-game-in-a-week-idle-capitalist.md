@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Idle Capitalist"
+title:  '#GameInAWeek: Idle Capitalist'
 date:   2018-01-11 20:00:00 +0100
 category: tech
 tags:

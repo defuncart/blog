@@ -5,7 +5,6 @@ date: 2018-03-05 20:00:00 +0100
 category: tech
 tags:
 - DerDieDas
-- Unity
 ---
 
 Since launching *Caoga caoga*, I've been working on *Der Die Das*, a fun German article game in which the player tries to guess the correct article for a set of nouns. Although the game is still in the early prototype stage, it is ready for feedback so I'll be posting discussions to Duolingo and Reddit with a link to an online playable version for feedback.
