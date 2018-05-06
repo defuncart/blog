@@ -7,7 +7,8 @@ tags:
 - Deklinator
 - Unity
 ---
-Here are some screenshots of *Deklinator*, a very early prototype of a Declension-based game for learning polish.
+
+Here are some screenshots of *Deklinator*, a very early prototype of a Declension-based game for learning polish. The game can be played [here](http://defuncart.com/game-prototypes/deklinator/).
 
 <table style="width:100%" cellspacing="5" cellpadding="5">
   <tr>

@@ -4,7 +4,7 @@ title: Willkommen bei DPNT!!
 date: 2013-12-12 22:00:00 +01:00
 category: tech
 tags:
-- GermanLanguage
+- GermanPurals
 - HTML
 - CSS
 - javascript

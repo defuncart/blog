@@ -17,4 +17,4 @@ In addition to *Der Die Das*, I've been working on *German Plurals*, a fun Germa
 
 ![]({{site.baseurl}}/assets/images/posts/2018/18-03-23/01.gif)
 
-Although the game is still in the early prototype stage, I posted discussions to Duolingo and Reddit with a link to an online playable version and asking for feedback. Interest was far lower than with *Der Die Das*, with only 85% less of a response rate. Thus at the moment it make no sense in continuing development of *German Plurals*, instead I continue solely with *Der Die Das* and re-evaluate *German Plurals* once *Der Die Das* is released for testing on iOS and Android.
+Although the game is still in the early prototype stage, I posted discussions to Duolingo and Reddit with a link to an online playable version and asking for feedback. Interest was far lower than with *Der Die Das*, with only 85% less of a response rate. Thus at the moment it make no sense in continuing development of *German Plurals*, instead I will continue solely developing *Der Die Das*, and re-evaluate *German Plurals* once *Der Die Das* has been released for testing on iOS and Android.

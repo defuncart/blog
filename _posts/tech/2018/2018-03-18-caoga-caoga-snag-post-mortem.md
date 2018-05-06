@@ -33,10 +33,10 @@ On iOS, 50% of downloads come from North America, with only 42% from Europe, whi
     <td>United Kingdom</td><td>17%</td><td>11%</td>
   </tr>
   <tr>
-    <td>Germany</td><td>3%</td><td>7%</td>
+    <td>Canada</td><td>10%</td><td>5%</td>
   </tr>
   <tr>
-    <td>Canada</td><td>10%</td><td>5%</td>
+    <td>Germany</td><td>3%</td><td>7%</td>
   </tr>
   <tr>
     <td>Australia</td><td>6%</td><td>2%</td>
