@@ -7,7 +7,7 @@ tags:
 - Konjugator
 ---
 
-Over the last few days I've been working on Konjugator, a German verb conjugation game.
+Over the last few days I've been working on *Konjugator*, a German verb conjugation game.
 
 <table cellspacing="0" cellpadding="0">
   <tr>

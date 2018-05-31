@@ -7,4 +7,4 @@ tags:
 - CaogaCaoga
 ---
 
-As of today, *Caoga caoga* has been 1000 downloads on iOS and Android! Next milestone, 1000 downloads on Android! A huge thank you to everyone who has downloaded the game and began their journey learning the cúpla focal!
+As of today, *Caoga caoga* has been downloaded over 1000 times on iOS and Android! Next milestone, 1000 downloads on Android! A huge thank you to everyone who has downloaded the game and began their journey learning the cúpla focal!
