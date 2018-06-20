@@ -9,7 +9,7 @@ tags:
 - Unity
 ---
 
-*Idle Capitalist* is an idle clicker game inspired by *AdVenture Capitalist* in which the player invests funds into certain businesses to generate revenue. The project was created for educational purposes as part of my **#GameInAWeek** challenge and is released freely under an MIT license. This project may be quite useful for those looking for a starting point in creating an idle game in Unity for mobile. [Source](https://github.com/defuncart/game-in-a-week/tree/master/IdleCapitalist){:target="_blank"}.
+*Idle Capitalist* is an idle clicker game inspired by *AdVenture Capitalist* in which the player invests funds into certain businesses to generate revenue. The project was created for educational purposes as part of my **#GameInAWeek** challenge and is released freely under an MIT license. This project may be quite useful for those looking for a starting point in creating an idle game in Unity for mobile. [Source](https://github.com/defuncart/game-in-a-week/tree/master/IdleCapitalist)
 
 ## Screenshots
 
@@ -31,14 +31,11 @@ tags:
 * Locailzation implemented throughout.
 * Optimized assets (Sprite Packer).
 * iOS Launch Screen.
-* A complete write-up of the game design can be found in [GameDesignDocumentation.pdf](https://github.com/defuncart/game-in-a-week/blob/master/IdleCapitalist/GameDesignDocumentation.pdf).
+* A complete write-up of the game design can be found in [GameDesignDocument.pdf](https://github.com/defuncart/game-in-a-week/blob/master/IdleCapitalist/GameDesignDocument.pdf).
 
 ## Play Online
 
-The game can be played in the browser below:
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/728620?color=808285" allowfullscreen="no" width="384" height="532"></iframe>
-<p></p>
+The game can be played in the browser [here](http://defuncart.github.io/game-in-a-week/IdleCapitalist/).
 
 ## Conclusion
 

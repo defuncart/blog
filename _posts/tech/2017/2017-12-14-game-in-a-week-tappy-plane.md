@@ -9,7 +9,7 @@ tags:
 - Unity
 ---
 
-*Tappy Plane* is a *Flappy Bird* style endless runner in which the player taps the screen to fly their plane in between obstacles, thus earning coins which can be used to unlock other planes and levels. The project was created for educational purposes as part of my **#GameInAWeek** challenge and is released freely under an MIT license. This project may be quite useful for those looking for a starting point in creating an endless runner in Unity for mobile. [Source](https://github.com/defuncart/game-in-a-week/tree/master/TappyPlane){:target="_blank"}.
+*Tappy Plane* is a *Flappy Bird* style endless runner in which the player taps the screen to fly their plane in between obstacles, thus earning coins which can be used to unlock other planes and levels. The project was created for educational purposes as part of my **#GameInAWeek** challenge and is released freely under an MIT license. This project may be quite useful for those looking for a starting point in creating an endless runner in Unity for mobile. [Source](https://github.com/defuncart/game-in-a-week/tree/master/TappyPlane)
 
 ## Screenshots
 
@@ -25,7 +25,7 @@ tags:
 </table>
 <p></p>
 
-## [](#header-2)What's Included
+## What's Included
 
 * Gameplay speed increases with time.
 * Game settings are saved to disk.
@@ -36,18 +36,15 @@ tags:
 * Optimized assets (Sprite Packer).
 * iOS Launch Screen.
 
-## [](#header-2)Play Online
+## Play Online
 
-The game can be played in the browser below:
+The game can be played in the browser [here](http://defuncart.github.io/game-in-a-week/TappyPlane/).
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/694144?color=808285" allowfullscreen="" width="512" height="404"></iframe>
-<p></p>
-
-## [](#header-2)Conclusion
+## Conclusion
 
 Although the endless runner market is quite saturated, this project shows that, from an implementation point of view, such a game is very straightforward to develop. With a unique idea and artstyle, this prototype could be fleshed out into a full game.
 
-## [](#header-2)Further Reading
+## Further Reading
 
 * A full list of credits can be found in [Credits.txt](https://github.com/defuncart/game-in-a-week/blob/master/FlappyBird/Credits.txt).
 * A number of principles utilized in this project are explained in more detail in various [#50-Unity-Tips](https://github.com/defuncart/50-unity-tips) articles.
