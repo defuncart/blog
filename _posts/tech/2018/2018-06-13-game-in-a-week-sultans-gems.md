@@ -5,7 +5,6 @@ date:   2018-06-13 20:00:00 +0100
 category: tech
 tags:
 - GameInAWeek
-- SultansGems
 - Unity
 ---
 
