@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Gray Dawn Summer Tour'
-date: 2013-03-18 11:46:34 +01:00'
+title: Gray Dawn Summer Tour
+date: 2013-03-18 11:46:34 +01:00
 category: music
 tags:
 - GrayDawn
