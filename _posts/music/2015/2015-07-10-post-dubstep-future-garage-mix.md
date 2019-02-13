@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Strawberry Complexity - Post Dubstep/Future Garage mix'
+title: Post Dubstep/Future Garage Mix
 date: 2015-07-10 17:48:33 +02:00
 category: music
 tags:

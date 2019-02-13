@@ -9,20 +9,15 @@ tags:
 
 I know I may have mention this a few times before, but *SpriteKit* for iOS9 was a disaster. Although it included some really cool features (SKAudioNode) and the addition of GameplayKit, it seemed broken, supporting older versions of iOS (7 and 8) was a pain and there was little to no feedback from Apple. Eventually, the release was stabilized and the company I worked for released their educational game. I then started to cheat on SpriteKit by learning Unity, before pivoting to using it solely professionally.
 
-Since then, I've written about the differences between SpriteKit and Unity, and how I feel that SpriteKit is dead. Unity, on the other hand, has released a ton of new features over the last two years including built-in analytics, Cloud Build, and Remote Settings, while 2017 show massive 2D improvements
+Since then, I've written about the differences between SpriteKit and Unity, and how I feel that SpriteKit is dead. Unity, on the other hand, has released a ton of new features over the last two years including built-in analytics, Cloud Build, and Remote Settings, while 2017 had massive 2D improvements (2D Sprite Atlas, Sprite Masks, Sprite Physics Shape) and launched Cinemachine and Timeline.
 
-Unity has also adopted a more modular approach by separating their engine out into packages. Although there are three main releases per year, weekly incremental updates are
+Unity has almost listened to the community and is slowly offering a more modular solution by separating their engine out into packages. Moreover, although there are three main releases per year, there are weekly incremental updates and bug fixes. The underlying message is very positive for developers and companies who need to invest into a solution for their given projects.
 
-Packages can be easily
-
-Moreover, Unite's keynote
-
-The underluying message is that Unity is co
-
+Here are some of the new features I am most looking forward to over the coming releases:
 
 #### New Editor UI
 
-The Unity Editor UI isn't pretty, and hasn't been updated since I remember trying it first back in 2008. Version 2018.3 will sport a minor redesign with flat icons and a modern font, while there will a future 'opt-in' full redesign that I am looking forward to try out next year.
+The Unity Editor UI isn't pretty, and hasn't been updated since I remember trying it first back in 2008. Version 2018.3 will sport a minor redesign with flat icons and a modern font, while there will a future 'opt-in' full redesign next year that I'll defo try out once available.
 
 #### Unity for Small Things
 
@@ -38,12 +33,17 @@ Presently the importer only supports the 2D system (i.e. not the Canvas UI), whi
 
 #### Memory Profiler
 
+Pretty much a no brainer, being able to more accurately determine where memory is used (and potentially leaked) is something everyone wants to use ASAP!
+
 #### Pixel Perfect Camera
 
 Not something I needed yet, but good to know that a Pixel Perfect Camera is now available as a preview package. Pixel Art isn't going anywhere anytime soon, and this feature has been long requested by the community.
 
-Support for using .java and .cpp source files as plugins in a Unity project
-You now have the ability to add .java (as well as .cpp and .a) source files to Unity project plugin folders. These files will be recognized as Unity plugins and compiled into the APK without requiring the user to build libraries separately in Android Studio. The plugin code remains a part of the Unity project, eliminating the need to create a separate Android Studio project.
+#### Support for using .java and .cpp source files as plugins in a Unity project
+
+> You now have the ability to add .java (as well as .cpp and .a) source files to Unity project plugin folders. These files will be recognized as Unity plugins and compiled into the APK without requiring the user to build libraries separately in Android Studio. The plugin code remains a part of the Unity project, eliminating the need to create a separate Android Studio project.
+
+Again, not something I am often in the need of, but useful to have the option of.
 
 #### Android
 
@@ -59,7 +59,7 @@ After years of shying away from the issue, its hard to believe that "nested pref
 
 #### Entity Component System, Jobs, Burst Compiler
 
---
+ECS is something I really need to invest time into trying out. All the demos and comparisons highlight the performance benefit, while it is clear that this is the future (althogh the 'traditional' MonoBehaviour approach isn't going anywhere for a while).
 
 #### TextMesh Pro
 
@@ -69,9 +69,7 @@ Unity bought TextMesh Pro in 2017, and now includes it by default in 2018 versio
 
 > Let me dispel a rumor right now, you should not be afraid of using the Animation component, we have no plans at this time to deprecate or remove it.
 
-Although this flies in the face of the Unity documentation which had (doesn't seem to anymore) listed this component as legacy and shouldn't be used.
-
-For simple UI animations, use a script instead of either animation systems.
+Although this flies in the face of the Unity documentation which had (doesn't seem to anymore) listed this component as legacy and shouldn't be used. For simple UI animations, use a script instead of either animation systems. Not really a 'new feature' but somewhat new information.
 
 ## Resources
 
