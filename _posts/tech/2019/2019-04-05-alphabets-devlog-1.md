@@ -23,6 +23,6 @@ Over the last two weeks I've been working towards an alpha release of *αბц*:
 </table>
 <p></p>
 
-So far I'm very pleased with the app. From a design perspective, I believe the results screen needs an overhaul, while an initial bootstrap would be good to initialize everything while a logo animation is running. An iOS design pass is need to, for instance Progress Bar doesn't look good on iOS compared to Android.
+So far I'm very pleased with the app. From a design perspective, I believe the results screen needs an overhaul, while an initial bootstrap would be good to initialize everything while a logo animation is running. An iOS design pass is need too, for instance Progress Bar doesn't look good on iOS compared to Android.
 
 View the project on [GitHub](https://github.com/defuncart/Alphabets).

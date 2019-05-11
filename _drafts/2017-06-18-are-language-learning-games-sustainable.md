@@ -2,9 +2,8 @@
 layout: post
 title:  'Can FTP Language Learning Games be Sustainable?'
 date:   2017-06-18 18:00:00 +0100
+category: tech
 tags:
-#- GICPoznań
-#- IntelBuzzWorkshop
 - article
 ---
 
