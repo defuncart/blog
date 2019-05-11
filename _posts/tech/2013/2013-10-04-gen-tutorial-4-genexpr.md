@@ -30,8 +30,7 @@ Yes you’re right, this is the same patch as GenTutorial1.1, albeit this time u
 
 *GenExpr* is the internal language (similar to *C* and *Javascript*) used by *Gen* patchers, compiled directly into machine code, thus making it so fast and efficient. When we use operators like **+**, **history**, **buffer** etc., *Gen* automatically does this compilation for us, however we can directly write *GenExpr* code ourselves using **expr** and **codebox**. Note that there is no performance difference in writing the *GenExpr* code ourselves, however sometimes one approach is more convenient than the other. For instance, take a look at the following video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OwHfkoAj2-U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<p></p>
+{% include youtube.html id="OwHfkoAj2-U" %}
 
 Here the presented wished to create a waveshaper, and easily found some code online which he was able to convert into *GenExpr* code, and thus created a waveshaper in the matter of minutes.
 

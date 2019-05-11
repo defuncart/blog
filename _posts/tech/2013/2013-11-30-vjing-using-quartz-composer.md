@@ -13,20 +13,12 @@ Since I first got interested in VJing this year, I must admit that I’ve never 
 
 Nevertheless, the *QC* community is vast and ever-growing, and not merely limited to live performance. For instance, *QC* and the [*Bangnoise datamosh plugins*](http://kriss.cx/tom/2012/10/08/datamosh.html){:target="_blank"} were used to create a trailer for the recent Superman movie, *Man of Steel*.
 
-<!-- <iframe width="500" height="281" src="https://www.youtube.com/embed/d6g2ZSuWyM4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
-<!-- <p></p> -->
-<!-- {% include youtube.html id="d6g2ZSuWyM4" width="500" height="281" %} -->
 {% include youtube.html id="d6g2ZSuWyM4" %}
-<!-- 854 480 -->
 
 Visually I am much more interested in using film than computer generated material, which, within the VJ scene, is what I have invariably seen *QC* used for. Using [*Syphon*](http://syphon.v002.info/){:target="blank"}, one could even connect *QC* into [*VIZZable*](http://vizzable.zeal.co/){:target="_blank"} and *Ableton Live*, so, technically, it would be quite easy to incorporate it within my performance rig. However, one could equally merely use *Lua* scripting for rendering graphics.
 
 Although I realistically don’t see myself learning some *QC*, here, at least, is an introduction by Sergio Mora at a Processing Orlando Meetup for anyone who is interested.
 
-<!-- <iframe width="500" height="375" src="https://www.youtube.com/embed/XI-effQEnIo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<p></p> -->
-
-<!-- {% include youtube.html id="XI-effQEnIo" width="500" height="375" %} -->
 {% include youtube.html id="XI-effQEnIo" %}
 
 If you’ve any pro/cons of using *QC* or suggestions on alternative approaches, let me know!
