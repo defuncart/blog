@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import glob
 import os
+from TagUtils import getUniqueTags
 
 # directory variables
 posts_dir = '../_posts/'
@@ -16,31 +17,8 @@ def textString ( tag ):
     returnString += "---\n"
     return returnString
 
-# get a list of md files in posts directory
-filepaths = glob.iglob('../_posts/**/*.md', recursive=True)
-
-#loop through all the posts and pull their tags
-tags = []
-for filepath in filepaths:
-    f = open(filepath, 'r', encoding="utf8")
-
-    insideFontMatter = False #between two sets of ---, the font matter defines post variables and tags
-    for line in f:
-
-        #if inside font matter, determine if the first character is -
-        if insideFontMatter:
-            characters = line.strip().split()
-            if(characters[0] == "-"):
-                tags.extend(characters[1:])
-        if line.strip() == "---":
-            insideFontMatter = not insideFontMatter
-            if not insideFontMatter:
-                break
-
-    f.close()
-
-# remove duplicates by creating a set
-tags = set(tags)
+# get all the post tags
+tags = getUniqueTags()
 
 # determine an array of the existing tag pages
 existingTagPages = glob.iglob("../tags/*.md")
