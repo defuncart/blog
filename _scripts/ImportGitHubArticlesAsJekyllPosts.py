@@ -7,6 +7,7 @@ os.system('clear')
 
 # constants
 FLUTTER_TIPS_TRICKS = 'GitHubArticles/FlutterTipsTricks.json'
+LEARNING_XAMARIN = 'GitHubArticles/LearningXamarin.json'
 
 # determines the jekyll post content in md from a git readme
 def postMarkdown( json ):
@@ -27,15 +28,16 @@ def postMarkdown( json ):
     # remove title
     gitHubPageTitle = githubMd.partition('\n\n')[0]
     githubMd = githubMd.replace(gitHubPageTitle, '')
+    githubMd = githubMd[1:]
     # update relative (i.e. image) urls
     imageUrl = format(json['gitUrl'].replace('github', 'raw.githubusercontent')).replace('/tree', '')
     githubMd = githubMd.replace('![](images', '![]({}/images'.format(imageUrl))
+    githubMd = githubMd.replace('<img src="Images', '<img src="{}/Images'.format(imageUrl))
     # finally add post body
     md += githubMd
 
     # add footer re-directing to github
-    # md += '\n## Original Article\n\nThis post is generated from an article on GitHub. Full source code and original article can be found [here]({}).\n'.format(json['gitUrl'])
-    md += '\nThis post is generated from an article on [GitHub]({}).\n'.format(json['gitUrl'])
+    md += '\n\n<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="{}">GitHub repository</a>.</font></p>\n'.format(json['gitUrl'])
 
     return md
 
@@ -52,7 +54,8 @@ def postFilename( json ):
 
     return '../_posts/tech/{}/{}-{}.md'.format(year, date, title)
 
-gitRepos = [FLUTTER_TIPS_TRICKS]
+# gitRepos = [FLUTTER_TIPS_TRICKS]
+gitRepos = [LEARNING_XAMARIN]
 for repo in gitRepos:
     with open(repo) as jsonFile:
         articles = json.load(jsonFile)

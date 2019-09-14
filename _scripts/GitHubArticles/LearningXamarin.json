@@ -1,0 +1,58 @@
+[
+    {
+        "gitUrl": "https://github.com/defuncart/Xamarin/tree/master/01-HelloWorld",
+        "title": "Learning Xamarin: #01 Hello World",
+        "date": "2019-01-05 16:00:00 +01:00",
+        "tags": [
+            "Xamarin"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/Xamarin/tree/master/02-Layouts",
+        "title": "Learning Xamarin: #02 Layouts",
+        "date": "2019-01-12 16:00:00 +01:00",
+        "tags": [
+            "Xamarin"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/Xamarin/tree/master/03-Localization",
+        "title": "Learning Xamarin: #03 Localization",
+        "date": "2019-01-19 16:00:00 +01:00",
+        "tags": [
+            "Xamarin"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/Xamarin/tree/master/04-TableView",
+        "title": "Learning Xamarin: #04 TableView",
+        "date": "2019-01-26 16:00:00 +01:00",
+        "tags": [
+            "Xamarin"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/Xamarin/tree/master/05-ListView",
+        "title": "Learning Xamarin: #05 ListView",
+        "date": "2019-02-02 16:00:00 +01:00",
+        "tags": [
+            "Xamarin"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/Xamarin/tree/master/06-BasicAnimations",
+        "title": "Learning Xamarin: #06 Basic Animations",
+        "date": "2019-02-09 16:00:00 +01:00",
+        "tags": [
+            "Xamarin"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/Xamarin/tree/master/07-AutosizeLabel",
+        "title": "Learning Xamarin: #07 Autosize Label",
+        "date": "2019-02-16 16:00:00 +01:00",
+        "tags": [
+            "Xamarin"
+        ]
+    }
+]
