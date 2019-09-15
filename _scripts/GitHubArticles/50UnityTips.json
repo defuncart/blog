@@ -1,0 +1,259 @@
+[
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2301-GitVersionControl",
+        "title": "50 Unity Tips #1: Git Version Control",
+        "date": "2017-05-29 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "GitHub"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2302-ExtensionMethods",
+        "title": "50 Unity Tips #2: Extension Methods",
+        "date": "2017-05-30 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2303-RichText",
+        "title": "50 Unity Tips #3: Rich Text",
+        "date": "2017-05-31 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2304-MoreEfficientYieldStatements",
+        "title": "50 Unity Tips #4: More Efficient Yield Statements",
+        "date": "2017-06-01 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2305-CustomInvoke",
+        "title": "50 Unity Tips #5: Custom Invoke",
+        "date": "2017-06-02 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2306-PlayerPreferences",
+        "title": "50 Unity Tips #6: Player Preferences",
+        "date": "2017-06-05 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2307-BinarySerialization",
+        "title": "50 Unity Tips #7: Binary Serialization",
+        "date": "2017-06-06 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2308-ScriptableObjects",
+        "title": "50 Unity Tips #8: Scriptable Objects",
+        "date": "2017-06-07 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2309-JSONSerialization",
+        "title": "50 Unity Tips #9: JSON Serialization",
+        "date": "2017-06-08 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2310-XMLSerialization",
+        "title": "50 Unity Tips #10: XML Serialization",
+        "date": "2017-06-09 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2311-OnScreenLogMessages",
+        "title": "50 Unity Tips #11: On Screen Log Messages",
+        "date": "2017-09-21 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2312-PreloadingMobileSigning",
+        "title": "50 Unity Tips #12: Preloading Mobile Signing",
+        "date": "2017-10-31 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2313-iOSLaunchScreen",
+        "title": "50 Unity Tips #13: iOS Launch Screen",
+        "date": "2017-11-10 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "iOS"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2314-CustomC%23ScriptTemplate",
+        "title": "50 Unity Tips #14: Custom C# Script Template",
+        "date": "2017-12-11 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ],
+        "postUrl": "50-unity-tips-14-custom-csharp-script-template"
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2315-PimpTheInspector",
+        "title": "50 Unity Tips #15: Pimp the Inspector",
+        "date": "2018-03-11 10:00:00 +01:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2316-OnValidate",
+        "title": "50 Unity Tips #16: OnValidate",
+        "date": "2018-03-12 10:00:00 +01:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2317-CustomEditor",
+        "title": "50 Unity Tips #17: Custom Editor Windows",
+        "date": "2018-03-13 10:00:00 +01:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2318-CustomMenuItems",
+        "title": "50 Unity Tips #18: Custom Menu Items",
+        "date": "2018-03-14 10:00:00 +01:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2319-LoadingArrayAssetsAtPath",
+        "title": "50 Unity Tips #19: Loading an Array of Assets at Path",
+        "date": "2018-03-15 10:00:00 +01:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2320-AssetPostprocessor",
+        "title": "50 Unity Tips #20: Asset Postprocessor",
+        "date": "2018-03-16 10:00:00 +01:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2321-Singletons",
+        "title": "50 Unity Tips #21: Singletons",
+        "date": "2018-03-19 10:00:00 +01:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2322-AndroidDeviceFilter",
+        "title": "50 Unity Tips #22: Android Device Filter",
+        "date": "2018-05-30 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2323-Pseudolocalization",
+        "title": "50 Unity Tips #23: Pseudolocalization",
+        "date": "2018-05-31 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2324-ContextMenus",
+        "title": "50 Unity Tips #24: Context Menus",
+        "date": "2018-06-18 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2325-PropertyDrawers",
+        "title": "50 Unity Tips #25: Property Drawers",
+        "date": "2018-06-19 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2326-DecoratorDrawers",
+        "title": "50 Unity Tips #26: Decorator Drawers",
+        "date": "2018-06-20 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    },
+    {
+        "gitUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%2327-CustomFolderInspectors",
+        "title": "50 Unity Tips #27: Custom Folder Inspectors",
+        "date": "2018-06-21 10:00:00 +02:00",
+        "tags": [
+            "Unity",
+            "UnityTipsTricks",
+            "UnityTools"
+        ]
+    }
+]

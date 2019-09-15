@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import json
 import os
 import requests
@@ -7,6 +9,7 @@ os.system('clear')
 
 # constants
 FLUTTER_TIPS_TRICKS = 'GitHubArticles/FlutterTipsTricks.json'
+UNITY_TIPS = 'GitHubArticles/50UnityTips.json'
 LEARNING_XAMARIN = 'GitHubArticles/LearningXamarin.json'
 
 # determines the jekyll post content in md from a git readme
@@ -33,6 +36,7 @@ def postMarkdown( json ):
     imageUrl = format(json['gitUrl'].replace('github', 'raw.githubusercontent')).replace('/tree', '')
     githubMd = githubMd.replace('![](images', '![]({}/images'.format(imageUrl))
     githubMd = githubMd.replace('<img src="Images', '<img src="{}/Images'.format(imageUrl))
+    githubMd = githubMd.replace('<img src="images', '<img src="{}/images'.format(imageUrl))
     # finally add post body
     md += githubMd
 
@@ -47,15 +51,19 @@ def postFilename( json ):
     year = json['date'][0:4]
     date = json['date'][0:10]
     # determine post url
-    # firstly remove special characters
-    title = json['title'].replace('#', '').replace(':', '').replace('/', ' ') 
-    # then convert to lower characters with dashes for spaces
-    title = title.replace(' ', '-').lower()
+    title = ''
+    if ('postUrl' in json):
+        title = json['postUrl']
+    else:
+        # firstly remove special characters
+        title = json['title'].replace('#', '').replace(':', '').replace('/', ' ') 
+        # then convert to lower characters with dashes for spaces
+        title = title.replace(' ', '-').lower()
 
     return '../_posts/tech/{}/{}-{}.md'.format(year, date, title)
 
 # gitRepos = [FLUTTER_TIPS_TRICKS]
-gitRepos = [LEARNING_XAMARIN]
+gitRepos = [UNITY_TIPS]
 for repo in gitRepos:
     with open(repo) as jsonFile:
         articles = json.load(jsonFile)
