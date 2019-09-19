@@ -1,0 +1,54 @@
+{
+    "baseUrl": "https://github.com/defuncart/learning-flutter/tree/master/",
+    "baseTitle": "Learning Flutter: ",
+    "baseTags": [
+        "Flutter",
+        "LearningFlutter"
+    ],
+    "articles": [
+        {
+            "folder": "hello_world",
+            "date": "2019-04-26 18:00:00 +02:00"
+        },
+        {
+            "folder": "twitter_ui",
+            "date": "2019-05-03 18:00:00 +02:00"
+        },
+        {
+            "folder": "weather",
+            "date": "2019-05-17 18:00:00 +02:00"
+        },
+        {
+            "folder": "veggie_tracker",
+            "date": "2019-05-20 18:00:00 +02:00"
+        },
+        {
+            "folder": "calculator",
+            "date": "2019-05-31 18:00:00 +02:00"
+        },
+        {
+            "folder": "notes",
+            "date": "2019-07-05 18:00:00 +02:00"
+        },
+        {
+            "folder": "qr_scanner",
+            "date": "2019-07-08 18:00:00 +02:00"
+        },
+        {
+            "folder": "clock",
+            "date": "2019-08-16 18:00:00 +02:00"
+        },
+        {
+            "folder": "flags",
+            "date": "2019-08-19 18:00:00 +02:00"
+        },
+        {
+            "folder": "slack_onboarding",
+            "date": "2019-09-16 18:00:00 +02:00"
+        },
+        {
+            "folder": "hacker_news",
+            "date": "2019-09-20 18:00:00 +02:00"
+        }
+    ]
+}
