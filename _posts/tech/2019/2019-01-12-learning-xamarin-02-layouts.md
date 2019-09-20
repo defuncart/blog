@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Xamarin: #02 Layouts'
+title: 'Learning Xamarin #02: Layouts'
 date: 2019-01-12 16:00:00 +01:00
 category: tech
 tags:

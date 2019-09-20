@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Xamarin: #01 Hello World'
+title: 'Learning Xamarin #01: Hello World'
 date: 2019-01-05 16:00:00 +01:00
 category: tech
 tags:

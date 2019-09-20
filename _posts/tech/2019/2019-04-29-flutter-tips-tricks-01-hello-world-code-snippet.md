@@ -9,7 +9,6 @@ tags:
 - VSCode
 ---
 
-
 When we create a new Flutter project, the standard [*starter app*](https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/tools/android-studio/hot-reload.gif), in which the user can click a button and the onscreen count text is updated, is generated. Although this is a nice introduction to Flutter and hot reloading, I always find myself needing to delete most of this boilerplate code or starting from scratch. Wouldn't it be great if there was someway to easily create an *Hello World* code snippet for **main.dart**?
 
 In VS Code open the *Command Palette* (CMD + SHIFT + P), type "snippets" and select **Preferences: Configure User Snippets**
@@ -62,4 +61,5 @@ Although Flutter has some built in code snippets in VS Code (for instance *stles
 
 For an overview of Flutter key bindings in VS Code take a look [here](https://dartcode.org/docs/key-bindings/), while [this post](https://medium.com/flutter-community/flutter-visual-studio-code-shortcuts-for-fast-and-efficient-development-7235bc6c3b7d) by Ganesh .s.p is a great overview of shortcuts within VS Code for Flutter devs (macOS users can generally substitute CMD for CTRL).
 
-This post is generated from an article on [GitHub](https://github.com/defuncart/flutter-tips-tricks/tree/master/01-HelloWordCodeSnippet(VSCode)).
+
+<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="https://github.com/defuncart/flutter-tips-tricks/tree/master/01-HelloWordCodeSnippet(VSCode)">GitHub repository</a>.</font></p>

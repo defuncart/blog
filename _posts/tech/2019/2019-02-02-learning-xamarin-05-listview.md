@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Xamarin: #05 ListView'
+title: 'Learning Xamarin #05: ListView'
 date: 2019-02-02 16:00:00 +01:00
 category: tech
 tags:

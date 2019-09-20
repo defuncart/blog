@@ -8,7 +8,6 @@ tags:
 - FlutterTipsTricks
 ---
 
-
 Any package hosted on [*pub.dev*](https://pub.dev/) can be easily imported into a Flutter project by listing it as a dependency in **pubspec.yaml**:
 
 ```yaml
@@ -95,4 +94,5 @@ dependencies:
 
 [Dart: Pub Server](https://github.com/dart-lang/pub_server)
 
-This post is generated from an article on [GitHub](https://github.com/defuncart/flutter-tips-tricks/tree/master/04-ImportingPackages).
+
+<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="https://github.com/defuncart/flutter-tips-tricks/tree/master/04-ImportingPackages">GitHub repository</a>.</font></p>

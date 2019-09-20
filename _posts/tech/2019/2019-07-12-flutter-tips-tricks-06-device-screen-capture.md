@@ -8,7 +8,6 @@ tags:
 - FlutterTipsTricks
 ---
 
-
 If a picture is worth a thousand words, then a video can be practically priceless in demonstration an app's feature to colleagues, clients etc. Lets find out how to capture videos from mobile devices.
 
 ## iOS
@@ -87,4 +86,5 @@ As before, these commands can be added as custom key bindings:
 }
 ```
 
-This post is generated from an article on [GitHub](https://github.com/defuncart/flutter-tips-tricks/tree/master/06-DeviceScreenCapture).
+
+<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="https://github.com/defuncart/flutter-tips-tricks/tree/master/06-DeviceScreenCapture">GitHub repository</a>.</font></p>

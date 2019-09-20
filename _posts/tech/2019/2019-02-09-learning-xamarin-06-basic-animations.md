@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Xamarin: #06 Basic Animations'
+title: 'Learning Xamarin #06: Basic Animations'
 date: 2019-02-09 16:00:00 +01:00
 category: tech
 tags:

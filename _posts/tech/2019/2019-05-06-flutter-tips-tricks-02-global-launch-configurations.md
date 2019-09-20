@@ -9,7 +9,6 @@ tags:
 - VSCode
 ---
 
-
 In VS Code, a Flutter app can easily be ran in debug mode on a device by pressing **F5**. However, what about release or profile mode?
 
 In Debug View (CMD + SHIFT + D), you may notice that no launch configurations have been set up:
@@ -103,4 +102,5 @@ Here we can define our Flutter configurations to be global:
 
 [Dart Code - Running Flutter Apps in Profile or Release Modes](https://dartcode.org/docs/running-flutter-apps-in-profile-or-release-modes/)
 
-This post is generated from an article on [GitHub](https://github.com/defuncart/flutter-tips-tricks/tree/master/02-GlobalLaunchConfigurations(VSCode)).
+
+<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="https://github.com/defuncart/flutter-tips-tricks/tree/master/02-GlobalLaunchConfigurations(VSCode)">GitHub repository</a>.</font></p>

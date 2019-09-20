@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Xamarin: #03 Localization'
+title: 'Learning Xamarin #03: Localization'
 date: 2019-01-19 16:00:00 +01:00
 category: tech
 tags:

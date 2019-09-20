@@ -1,67 +1,51 @@
-[
-    {
-        "gitUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/01-HelloWordCodeSnippet(VSCode)",
-        "title": "Flutter Tips Tricks #01: Hello World Code Snippet",
-        "date": "2019-04-29 10:00:00 +02:00",
-        "tags": [
-            "Flutter",
-            "FlutterTipsTricks",
-            "VSCode"
-        ]
-    },
-    {
-        "gitUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/02-GlobalLaunchConfigurations(VSCode)",
-        "title": "Flutter Tips Tricks #02: Global Launch Configurations",
-        "date": "2019-05-06 10:00:00 +02:00",
-        "tags": [
-            "Flutter",
-            "FlutterTipsTricks",
-            "VSCode"
-        ]
-    },
-    {
-        "gitUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/03-SpecifyDeviceOrientation",
-        "title": "Flutter Tips Tricks #03: Specify Device Orientation",
-        "date": "2019-05-13 10:00:00 +02:00",
-        "tags": [
-            "Flutter",
-            "FlutterTipsTricks"
-        ]
-    },
-    {
-        "gitUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/04-ImportingPackages",
-        "title": "Flutter Tips Tricks #04: Importing Packages",
-        "date": "2019-05-24 10:00:00 +02:00",
-        "tags": [
-            "Flutter",
-            "FlutterTipsTricks"
-        ]
-    },
-    {
-        "gitUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/05-ChangePackageNameBundleId",
-        "title": "Flutter Tips Tricks #05: Change Package Name/Bundle Id",
-        "date": "2019-05-27 10:00:00 +02:00",
-        "tags": [
-            "Flutter",
-            "FlutterTipsTricks"
-        ]
-    },
-    {
-        "gitUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/06-DeviceScreenCapture",
-        "title": "Flutter Tips Tricks #06: Device Screen Capture",
-        "date": "2019-07-12 10:00:00 +02:00",
-        "tags": [
-            "Flutter",
-            "FlutterTipsTricks"
-        ]
-    },
-    {
-        "gitUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/07-iPhoneXSimulatorScreenshots",
-        "title": "Flutter Tips Tricks #07: iPhoneX Simulator Screenshots",
-        "date": "2019-09-13 18:00:00 +02:00",
-        "tags": [
-            "Flutter",
-            "FlutterTipsTricks"
-        ]
-    }
-]
+{
+    "baseUrl": "https://github.com/defuncart/flutter-tips-tricks/tree/master/",
+    "baseTitle": "Flutter Tips Tricks #",
+    "baseTags": [
+        "Flutter",
+        "FlutterTipsTricks"
+    ],
+    "articles": [
+        {
+            "folder": "01-HelloWordCodeSnippet(VSCode)",
+            "title": "01: Hello World Code Snippet",
+            "date": "2019-04-29 10:00:00 +02:00",
+            "tags": [
+                "VSCode"
+            ]
+        },
+        {
+            "folder": "02-GlobalLaunchConfigurations(VSCode)",
+            "title": "02: Global Launch Configurations",
+            "date": "2019-05-06 10:00:00 +02:00",
+            "tags": [
+                "VSCode"
+            ]
+        },
+        {
+            "folder": "03-SpecifyDeviceOrientation",
+            "autoTitle": true,
+            "date": "2019-05-13 10:00:00 +02:00"
+        },
+        {
+            "folder": "04-ImportingPackages",
+            "autoTitle": true,
+            "date": "2019-05-24 10:00:00 +02:00"
+        },
+        {
+            "folder": "05-ChangePackageNameBundleId",
+            "title": "05: Change Package Name/Bundle Id",
+            "date": "2019-05-27 10:00:00 +02:00"
+        },
+        {
+            "folder": "06-DeviceScreenCapture",
+            "autoTitle": true,
+            "date": "2019-07-12 10:00:00 +02:00"
+        },
+        {
+            "folder": "07-iPhoneXSimulatorScreenshots",
+            "title": "07: iPhoneX Simulator Screenshots",
+            "date": "2019-09-13 18:00:00 +02:00"
+        }
+    ]
+}

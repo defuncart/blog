@@ -8,7 +8,6 @@ tags:
 - FlutterTipsTricks
 ---
 
-
 By default, *Portrait*, *Landscape Left* and *Landscape Right* orientations are supported when a Flutter project is created. If you would like to specify the supported orientations for the duration of an app's lifecycle, this can easily be achieved in one of two ways.
 
 ### 1. Set in main()
@@ -51,4 +50,5 @@ For Android, open *android/app/src/main/AndroidManifest.xml* and add the activit
             ....
 ```
 
-This post is generated from an article on [GitHub](https://github.com/defuncart/flutter-tips-tricks/tree/master/03-SpecifyDeviceOrientation).
+
+<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="https://github.com/defuncart/flutter-tips-tricks/tree/master/03-SpecifyDeviceOrientation">GitHub repository</a>.</font></p>

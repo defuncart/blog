@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import json
 import os
+import re
 import requests
 
 # clear screen
@@ -12,6 +13,13 @@ LEARNING_FLUTTER = 'GitHubArticles/LearningFlutter.json'
 FLUTTER_TIPS_TRICKS = 'GitHubArticles/FlutterTipsTricks.json'
 UNITY_TIPS = 'GitHubArticles/50UnityTips.json'
 LEARNING_XAMARIN = 'GitHubArticles/LearningXamarin.json'
+
+# determines an article title from a folder name (i.e. 01-MyArticle -> 01: My Article)
+def titleFromFolderName( folderName ):
+    # replace - with : and split folder name by capital letter
+    folderName = folderName.replace('-', ':')
+    stringArray = re.sub( r"([A-Z])", r" \1", folderName).split()
+    return ' '.join(stringArray)
 
 # determines the jekyll post content in md from a git readme
 def postMarkdown( url, title, date, tags ):
@@ -62,7 +70,7 @@ def postFilename( url, title, date ):
 
     return '../_posts/tech/{}/{}-{}.md'.format(year, date, title)
 
-gitRepos = [LEARNING_FLUTTER]
+gitRepos = [UNITY_TIPS]
 for repo in gitRepos:
     with open(repo) as jsonFile:
         data = json.load(jsonFile)
@@ -71,7 +79,11 @@ for repo in gitRepos:
 
             # determine article variables
             url = data['baseUrl'] + article['folder']
-            title = data['baseTitle'] + article['folder']
+            title = data['baseTitle'] 
+            if 'autoTitle' in article:
+                title += titleFromFolderName(article['folder'])
+            else:
+                title += article['title'] if 'title' in article else article['folder']
             date = article['date']
             tags = data['baseTags'] + article['tags'] if 'tags' in article else data['baseTags']
             titlePost = data['postUrl'] if 'postUrl' in article else title

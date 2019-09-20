@@ -8,7 +8,6 @@ tags:
 - FlutterTipsTricks
 ---
 
-
 By default, when a new Flutter project is created, the package name (Android) and Bundle Id (iOS) is automatically set to *com.example.app_name* and *com.example.appName* respectively. When releasing on the store, we need to specify our own custom identifiers (generally reverse domain notation).
  
 ## Android
@@ -84,4 +83,5 @@ In VS Code, the organization can be specified in **settings.json**:
 
 [Android API: Application ID](https://developer.android.com/studio/build/application-id)
 
-This post is generated from an article on [GitHub](https://github.com/defuncart/flutter-tips-tricks/tree/master/05-ChangePackageNameBundleId).
+
+<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="https://github.com/defuncart/flutter-tips-tricks/tree/master/05-ChangePackageNameBundleId">GitHub repository</a>.</font></p>

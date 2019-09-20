@@ -8,7 +8,6 @@ tags:
 - FlutterTipsTricks
 ---
 
-
 In the [last tip](https://github.com/defuncart/flutter-tips-tricks/tree/master/06-DeviceScreenCapture), I mentioned that iOS Simulator screenshots and screen captures can be taking using the terminal commands
 
 ```
@@ -47,4 +46,5 @@ however only ```ignored``` and ```black``` are valid values.
 
 Note that other image and video file formats are supported, ```png```, ```tiff```, ```bmp```, ```gif``` and ```jpeg``` for images and ```h264```, ```mp4``` and ```fmp4``` for videos, defaulting to ```png``` and ```mp4``` respectively.
 
-This post is generated from an article on [GitHub](https://github.com/defuncart/flutter-tips-tricks/tree/master/07-iPhoneXSimulatorScreenshots).
+
+<p align="center"><font size="-1" color="#828282">This post was generated from a <a href="https://github.com/defuncart/flutter-tips-tricks/tree/master/07-iPhoneXSimulatorScreenshots">GitHub repository</a>.</font></p>

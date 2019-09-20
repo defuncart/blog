@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Xamarin: #07 Autosize Label'
+title: 'Learning Xamarin #07: Autosize Label'
 date: 2019-02-16 16:00:00 +01:00
 category: tech
 tags:
