@@ -1,0 +1,185 @@
+{
+    "baseUrl": "https://github.com/defuncart/50-unity-tips/tree/master/%23",
+    "baseTitle": "50 Unity Tips #",
+    "baseTags": [
+        "Unity",
+        "UnityTipsTricks"
+    ],
+    "articles": [
+        {
+            "folder": "01-GitVersionControl",
+            "autoTitle": true,
+            "date": "2017-05-29 10:00:00 +02:00",
+            "tags": [
+                "GitHub"
+            ]
+        },
+        {
+            "folder": "02-ExtensionMethods",
+            "autoTitle": true,
+            "date": "2017-05-30 10:00:00 +02:00"
+        },
+        {
+            "folder": "03-RichText",
+            "autoTitle": true,
+            "date": "2017-05-31 10:00:00 +02:00"
+        },
+        {
+            "folder": "04-MoreEfficientYieldStatements",
+            "autoTitle": true,
+            "date": "2017-06-01 10:00:00 +02:00"
+        },
+        {
+            "folder": "05-CustomInvoke",
+            "autoTitle": true,
+            "date": "2017-06-02 10:00:00 +02:00"
+        },
+        {
+            "folder": "06-PlayerPreferences",
+            "autoTitle": true,
+            "date": "2017-06-05 10:00:00 +02:00"
+        },
+        {
+            "folder": "07-BinarySerialization",
+            "autoTitle": true,
+            "date": "2017-06-06 10:00:00 +02:00"
+        },
+        {
+            "folder": "08-ScriptableObjects",
+            "autoTitle": true,
+            "date": "2017-06-07 10:00:00 +02:00"
+        },
+        {
+            "folder": "09-JSONSerialization",
+            "title": "09: JSON Serialization",
+            "date": "2017-06-08 10:00:00 +02:00"
+        },
+        {
+            "folder": "10-XMLSerialization",
+            "title": "10: XML Serialization",
+            "date": "2017-06-09 10:00:00 +02:00"
+        },
+        {
+            "folder": "11-OnScreenLogMessages",
+            "autoTitle": true,
+            "date": "2017-09-21 10:00:00 +02:00"
+        },
+        {
+            "folder": "12-PreloadingMobileSigning",
+            "autoTitle": true,
+            "date": "2017-10-31 10:00:00 +02:00"
+        },
+        {
+            "folder": "13-iOSLaunchScreen",
+            "title": "13: iOS Launch Screen",
+            "date": "2017-11-10 10:00:00 +02:00",
+            "tags": [
+                "iOS"
+            ]
+        },
+        {
+            "folder": "14-CustomC%23ScriptTemplate",
+            "title": "14: Custom C# Script Template",
+            "date": "2017-12-11 10:00:00 +02:00",
+            "postUrl": "50-unity-tips-14-custom-csharp-script-template"
+        },
+        {
+            "folder": "15-PimpTheInspector",
+            "title": "15: Pimp the Inspector",
+            "date": "2018-03-11 10:00:00 +01:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "16-OnValidate",
+            "title": "16: OnValidate",
+            "date": "2018-03-12 10:00:00 +01:00"
+        },
+        {
+            "folder": "17-CustomEditor",
+            "title": "17: Custom Editor Windows",
+            "date": "2018-03-13 10:00:00 +01:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "18-CustomMenuItems",
+            "autoTitle": true,
+            "date": "2018-03-14 10:00:00 +01:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "19-LoadingArrayAssetsAtPath",
+            "title": "19: Loading an Array of Assets at Path",
+            "date": "2018-03-15 10:00:00 +01:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "20-AssetPostprocessor",
+            "autoTitle": true,
+            "date": "2018-03-16 10:00:00 +01:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "21-Singletons",
+            "autoTitle": true,
+            "date": "2018-03-19 10:00:00 +01:00"
+        },
+        {
+            "folder": "22-AndroidDeviceFilter",
+            "autoTitle": true,
+            "date": "2018-05-30 10:00:00 +02:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "23-Pseudolocalization",
+            "autoTitle": true,
+            "date": "2018-05-31 10:00:00 +02:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "24-ContextMenus",
+            "autoTitle": true,
+            "date": "2018-06-18 10:00:00 +02:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "25-PropertyDrawers",
+            "autoTitle": true,
+            "date": "2018-06-19 10:00:00 +02:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "26-DecoratorDrawers",
+            "autoTitle": true,
+            "date": "2018-06-20 10:00:00 +02:00",
+            "tags": [
+                "UnityTools"
+            ]
+        },
+        {
+            "folder": "27-CustomFolderInspectors",
+            "autoTitle": true,
+            "date": "2018-06-21 10:00:00 +02:00",
+            "tags": [
+                "UnityTools"
+            ]
+        }
+    ]
+}

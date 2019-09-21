@@ -1,0 +1,44 @@
+{
+    "baseUrl": "https://github.com/defuncart/Xamarin/tree/master/",
+    "baseTitle": "Learning Xamarin #",
+    "baseTags": [
+        "Xamarin"
+    ],
+    "articles": [
+        {
+            "folder": "01-HelloWorld",
+            "autoTitle": true,
+            "date": "2019-01-05 16:00:00 +01:00"
+        },
+        {
+            "folder": "02-Layouts",
+            "autoTitle": true,
+            "date": "2019-01-12 16:00:00 +01:00"
+        },
+        {
+            "folder": "03-Localization",
+            "autoTitle": true,
+            "date": "2019-01-19 16:00:00 +01:00"
+        },
+        {
+            "folder": "04-TableView",
+            "title": "04: TableView",
+            "date": "2019-01-26 16:00:00 +01:00"
+        },
+        {
+            "folder": "05-ListView",
+            "title": "05: ListView",
+            "date": "2019-02-02 16:00:00 +01:00"
+        },
+        {
+            "folder": "06-BasicAnimations",
+            "autoTitle": true,
+            "date": "2019-02-09 16:00:00 +01:00"
+        },
+        {
+            "folder": "07-AutosizeLabel",
+            "autoTitle": true,
+            "date": "2019-02-16 16:00:00 +01:00"
+        }
+    ]
+}
