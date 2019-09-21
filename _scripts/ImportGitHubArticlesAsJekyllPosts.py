@@ -70,7 +70,7 @@ def postFilename( url, title, date ):
 
     return '../_posts/tech/{}/{}-{}.md'.format(year, date, title)
 
-gitRepos = [UNITY_TIPS]
+gitRepos = [LEARNING_FLUTTER, FLUTTER_TIPS_TRICKS]
 for repo in gitRepos:
     with open(repo) as jsonFile:
         data = json.load(jsonFile)
@@ -86,7 +86,7 @@ for repo in gitRepos:
                 title += article['title'] if 'title' in article else article['folder']
             date = article['date']
             tags = data['baseTags'] + article['tags'] if 'tags' in article else data['baseTags']
-            titlePost = data['postUrl'] if 'postUrl' in article else title
+            titlePost = article['postUrl'] if 'postUrl' in article else title
 
             # determine post content, filepath and save
             contents = postMarkdown(url, title, date, tags)

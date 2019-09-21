@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50 Unity Tips #2: Extension Methods'
+title: '50 Unity Tips #02: Extension Methods'
 date: 2017-05-30 10:00:00 +02:00
 category: tech
 tags:

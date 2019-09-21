@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50 Unity Tips #6: Player Preferences'
+title: '50 Unity Tips #06: Player Preferences'
 date: 2017-06-05 10:00:00 +02:00
 category: tech
 tags:

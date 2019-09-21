@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50 Unity Tips #8: Scriptable Objects'
+title: '50 Unity Tips #08: Scriptable Objects'
 date: 2017-06-07 10:00:00 +02:00
 category: tech
 tags:

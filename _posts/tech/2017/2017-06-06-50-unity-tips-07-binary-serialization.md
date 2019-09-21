@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50 Unity Tips #7: Binary Serialization'
+title: '50 Unity Tips #07: Binary Serialization'
 date: 2017-06-06 10:00:00 +02:00
 category: tech
 tags:
